@@ -1,0 +1,2183 @@
+Gender,Age,Height (m),Weight (kg),Daily main meals frequency,Physical exercise
+Male,29,1.65,101,Three,I do not have
+Female,25,1.65,53,Three,Almost Everyday
+Male,23,1.7,70,Between 1-2,I do not have
+Male,22,1.68,112,Three,I do not have
+Male,19,1.75,67,Three,2 or 4 days
+Male,24,1.65,70,Between 1-2,I do not have
+Male,30,1.55,90,Three,I do not have
+Male,16,1.57,73,More than Three,I do not have
+Male,23,1.83,110,More than Three,I do not have
+Male,23,1.68,49,Three,I do not have
+Male,32,1.65,46,Between 1-2,I do not have
+Male,18,1.8,110,Between 1-2,1 or 2 days
+Female,22,1.55,43,Three,I do not have
+Male,25,1.73,69,Three,4 or 5 days
+Male,26,1.68,52,Three,I do not have
+Male,22,1.65,75,Between 1-2,I do not have
+Male,20,1.7,60,Three,I do not have
+Male,24,1.7,90,Between 1-2,I do not have
+Female,44,1.65,92,More than Three,I do not have
+Male,21,1.68,90,Between 1-2,1 or 2 days
+Male,34,1.55,88,Three,I do not have
+Male,20,1.63,49,Three,I do not have
+Male,36,1.55,120,Three,I do not have
+Female,28,1.57,75,Between 1-2,I do not have
+Male,21,1.68,65,Three,2 or 4 days
+Male,22,1.68,105,Between 1-2,I do not have
+Female,22,1.63,61,Three,I do not have
+Male,24,1.73,61,More than Three,1 or 2 days
+Male,24,1.68,77,Between 1-2,I do not have
+Female,52,1.6,78,Three,I do not have
+Male,21,1.8,64,More than Three,Almost Everyday
+Male,51,1.7,51,Three,I do not have
+Male,30,1.68,91,Between 1-2,1 or 2 days
+Male,21,1.6,45,Three,I do not have
+Male,26,1.63,47,Between 1-2,I do not have
+Male,24,1.63,107,Three,I do not have
+Male,22,1.65,110,Three,I do not have
+Female,29,1.63,82,Between 1-2,1 or 2 days
+Male,21,1.68,67,Three,I do not have
+Male,22,1.73,80,Three,I do not have
+Female,32,1.42,96,Three,I do not have
+Female,37,1.55,78,Between 1-2,I do not have
+Male,25,1.6,104,Three,I do not have
+Female,24,1.65,61,Between 1-2,I do not have
+Male,35,1.63,62,Three,I do not have
+Female,29,1.52,98,Three,I do not have
+Male,26,1.73,96,Between 1-2,1 or 2 days
+Male,26,1.7,94,Three,I do not have
+Female,34,1.52,58,Between 1-2,I do not have
+Male,28,1.7,109,Three,I do not have
+Female,27,1.57,77,Three,I do not have
+Female,21,1.63,92,Between 1-2,I do not have
+Male,44,1.57,55,Three,I do not have
+Female,22,1.57,58,More than Three,I do not have
+Female,35,1.6,80,Three,I do not have
+Female,24,1.68,103,Three,I do not have
+Female,40,1.42,82,Three,I do not have
+Female,21,1.42,80,More than Three,I do not have
+Female,22,1.57,48,Between 1-2,I do not have
+Female,22,1.55,45,Between 1-2,I do not have
+Female,23,1.68,65,Three,1 or 2 days
+Female,21,1.57,50,More than Three,1 or 2 days
+Male,23,1.7,77,More than Three,Almost Everyday
+Male,23,1.68,85,More than Three,1 or 2 days
+Male,21,1.7,60,Three,4 or 5 days
+Female,20,1.6,65,Three,I do not have
+Male,22,1.65,40,Three,I do not have
+Male,30,1.65,103,More than Three,I do not have
+Female,20,1.65,46,Three,I do not have
+Female,30,1.52,99,Three,I do not have
+Male,36,1.68,51,Three,I do not have
+Male,23,1.6,41,Between 1-2,I do not have
+Male,19,1.55,99,Three,I do not have
+Male,25,1.57,113,Three,I do not have
+Male,22,1.75,81,More than Three,I do not have
+Male,41,1.63,101,Three,I do not have
+Male,32,1.68,117,Three,I do not have
+Male,21,1.68,55,Three,I do not have
+Female,36,1.6,44,Three,I do not have
+Male,19,1.6,44,Between 1-2,I do not have
+Male,32,1.73,106,More than Three,I do not have
+Female,18,1.45,69,Three,I do not have
+Female,19,1.57,54,Between 1-2,1 or 2 days
+Male,18,1.63,71,Between 1-2,1 or 2 days
+Male,23,1.65,53,Three,I do not have
+Female,21,1.6,97,More than Three,I do not have
+Female,22,1.4,72,More than Three,I do not have
+Female,31,1.57,78,Between 1-2,I do not have
+Female,20,1.6,38,Three,4 or 5 days
+Male,23,1.68,105,Three,I do not have
+Female,22,1.63,55,More than Three,I do not have
+Male,21,1.68,58,Three,Almost Everyday
+Male,16,1.73,58,Three,2 or 4 days
+Male,25,1.78,100,Between 1-2,I do not have
+Female,37,1.45,97,Three,I do not have
+Male,22,1.65,63,Three,1 or 2 days
+Female,25,1.6,45,Three,I do not have
+Female,35,1.63,80,Three,I do not have
+Female,30,1.42,100,Three,I do not have
+Male,28,1.73,54,Three,I do not have
+Female,20,1.45,72,Between 1-2,I do not have
+Female,58,1.42,70,Between 1-2,I do not have
+Female,21,1.68,67,Between 1-2,I do not have
+Female,22,1.55,50,Three,I do not have
+Female,21,1.65,85,Between 1-2,I do not have
+Male,20,1.7,50,Three,I do not have
+Female,26,1.55,72,Between 1-2,2 or 4 days
+Male,37,1.63,68,Between 1-2,1 or 2 days
+Female,41,1.57,107,Three,I do not have
+Female,46,1.6,47,Three,1 or 2 days
+Female,35,1.4,100,Three,I do not have
+Female,25,1.6,85,Three,I do not have
+Male,25,1.78,97,Three,1 or 2 days
+Male,22,1.65,45,Three,I do not have
+Male,26,1.73,52,Three,I do not have
+Male,24,1.6,70,Between 1-2,Almost Everyday
+Female,18,1.65,50,Three,I do not have
+Female,18,1.68,55,Between 1-2,I do not have
+Male,23,1.73,91,Three,I do not have
+Female,26,1.57,99,Three,I do not have
+Female,40,1.6,40,Three,I do not have
+Female,25,1.52,64,Between 1-2,4 or 5 days
+Male,35,1.68,109,More than Three,I do not have
+Male,22,1.7,61,Between 1-2,I do not have
+Female,22,1.7,90,More than Three,I do not have
+Male,34,1.63,112,Three,I do not have
+Male,25,1.78,90,More than Three,I do not have
+Male,25,1.7,78,Between 1-2,I do not have
+Female,25,1.57,48,Between 1-2,I do not have
+Male,24,1.7,70,More than Three,1 or 2 days
+Female,41,1.55,88,More than Three,I do not have
+Female,39,1.55,76,Between 1-2,I do not have
+Male,18,1.52,93,Three,I do not have
+Male,23,1.73,86,More than Three,Almost Everyday
+Female,23,1.63,67,Three,I do not have
+Male,26,1.65,89,Between 1-2,I do not have
+Male,17,1.63,95,Between 1-2,I do not have
+Male,22,1.68,113,Three,I do not have
+Male,25,1.63,44,Between 1-2,I do not have
+Male,26,1.7,88,Three,1 or 2 days
+Female,22,1.4,48,Three,I do not have
+Female,25,1.57,75,Between 1-2,I do not have
+Female,20,1.57,76,Three,I do not have
+Male,22,1.57,115,Three,I do not have
+Male,23,1.78,92,Three,4 or 5 days
+Female,32,1.63,46,Three,I do not have
+Male,21,1.73,60,Three,4 or 5 days
+Male,25,1.65,46,Three,I do not have
+Male,25,1.7,52,Three,I do not have
+Male,23,1.7,72,More than Three,1 or 2 days
+Female,23,1.6,67,Between 1-2,I do not have
+Male,23,1.7,71,Between 1-2,1 or 2 days
+Male,23,1.73,54,Three,I do not have
+Male,22,1.7,65,Three,I do not have
+Male,25,1.7,46,Three,I do not have
+Male,25,1.65,42,Three,I do not have
+Female,23,1.52,80,More than Three,I do not have
+Male,18,1.68,73,Between 1-2,I do not have
+Male,21,1.65,46,Three,I do not have
+Male,18,1.68,55,Three,I do not have
+Male,22,1.73,56,Three,2 or 4 days
+Male,25,1.6,116,Three,I do not have
+Male,24,1.8,74,Between 1-2,I do not have
+Female,22,1.6,75,Between 1-2,I do not have
+Male,22,1.68,50,Three,I do not have
+Male,32,1.65,77,Three,Almost Everyday
+Male,22,1.7,72,Between 1-2,Almost Everyday
+Male,30,1.63,98,Three,I do not have
+Female,20,1.65,80,More than Three,I do not have
+Female,59,1.45,72,Between 1-2,I do not have
+Male,17,1.88,55,Three,I do not have
+Female,26,1.45,87,Three,I do not have
+Female,44,1.57,85,Three,I do not have
+Female,40,1.52,80,Three,1 or 2 days
+Male,19,1.7,65,Three,I do not have
+Female,28,1.37,55,Between 1-2,I do not have
+Male,24,1.63,117,Three,I do not have
+Female,27,1.65,49,Three,I do not have
+Female,22,1.6,79,Three,4 or 5 days
+Female,24,1.47,59,More than Three,I do not have
+Female,21,1.63,45,Three,I do not have
+Male,20,1.85,88,Between 1-2,Almost Everyday
+Male,23,1.65,69,Between 1-2,I do not have
+Female,22,1.73,50,Between 1-2,I do not have
+Male,24,1.73,113,Three,I do not have
+Male,24,1.63,49,Three,I do not have
+Female,34,1.52,66,Between 1-2,I do not have
+Male,23,1.57,120,Three,I do not have
+Male,22,1.78,80,Three,I do not have
+Female,21,1.52,50,Between 1-2,I do not have
+Male,36,1.68,110,Three,I do not have
+Male,22,1.75,72,Between 1-2,I do not have
+Female,33,1.45,56,Between 1-2,I do not have
+Male,23,1.7,78,Between 1-2,I do not have
+Male,21,1.7,50,Three,I do not have
+Male,34,1.63,48,Three,I do not have
+Female,23,1.52,58,Three,I do not have
+Male,27,1.73,104,Three,I do not have
+Male,51,1.52,85,More than Three,I do not have
+Male,23,1.78,62,More than Three,I do not have
+Male,23,1.65,113,Three,I do not have
+Female,33,1.45,73,Between 1-2,I do not have
+Male,23,1.63,72,Between 1-2,I do not have
+Male,24,1.7,99,Between 1-2,1 or 2 days
+Female,27,1.6,47,Three,I do not have
+Male,23,1.65,44,Three,I do not have
+Female,21,1.57,70,Three,2 or 4 days
+Male,45,1.75,45,Three,I do not have
+Male,33,1.68,73,Three,I do not have
+Female,15,1.68,65,Between 1-2,4 or 5 days
+Female,27,1.45,90,Three,I do not have
+Male,23,1.7,85,Between 1-2,2 or 4 days
+Male,24,1.63,40,Between 1-2,I do not have
+Female,31,1.65,110,Between 1-2,I do not have
+Male,23,1.73,100,Between 1-2,I do not have
+Male,24,1.7,70,Three,2 or 4 days
+Female,54,1.57,88,More than Three,I do not have
+Male,24,1.78,90,Three,I do not have
+Female,28,1.52,52,Between 1-2,1 or 2 days
+Male,38,1.68,118,Three,I do not have
+Female,25,1.45,61,Between 1-2,1 or 2 days
+Female,58,1.57,77,Between 1-2,I do not have
+Female,21,1.57,54,Three,Almost Everyday
+Male,23,1.78,69,Three,I do not have
+Male,35,1.73,110,Three,I do not have
+Male,23,1.68,58,Three,I do not have
+Male,26,1.57,114,Three,I do not have
+Male,24,1.75,80,Three,I do not have
+Male,25,1.68,49,Three,I do not have
+Female,37,1.57,80,Between 1-2,I do not have
+Female,50,1.52,65,Between 1-2,I do not have
+Male,25,1.85,78,Three,I do not have
+Female,29,1.45,97,Three,I do not have
+Male,24,1.7,88,Between 1-2,I do not have
+Female,20,1.55,53,Between 1-2,1 or 2 days
+Male,21,1.75,62,Three,I do not have
+Male,33,1.73,52,Three,I do not have
+Male,22,1.7,82,Between 1-2,2 or 4 days
+Male,18,1.88,70,Three,2 or 4 days
+Female,49,1.4,72,Three,I do not have
+Male,21,1.75,56,Three,I do not have
+Female,54,1.4,57,Between 1-2,I do not have
+Female,24,1.7,55,Between 1-2,I do not have
+Male,26,1.57,95,Three,I do not have
+Male,28,1.7,98,Between 1-2,1 or 2 days
+Female,21,1.75,84,Between 1-2,1 or 2 days
+Male,30,1.8,91,Between 1-2,I do not have
+Male,29,1.68,102,More than Three,I do not have
+Female,41,1.45,78,More than Three,I do not have
+Male,23,1.68,78,Three,2 or 4 days
+Female,40,1.42,78,Three,I do not have
+Female,42,1.52,99,Three,I do not have
+Male,23,1.75,69,Three,Almost Everyday
+Female,30,1.63,95,More than Three,I do not have
+Male,28,1.63,94,More than Three,I do not have
+Male,23,1.63,85,Between 1-2,I do not have
+Male,22,1.68,61,Three,I do not have
+Female,27,1.52,64,Between 1-2,1 or 2 days
+Male,22,1.83,68,More than Three,Almost Everyday
+Female,21,1.55,47,Between 1-2,I do not have
+Female,20,1.78,70,More than Three,2 or 4 days
+Male,26,1.73,77,Three,1 or 2 days
+Female,25,1.52,70,Three,I do not have
+Male,25,1.63,50,Three,I do not have
+Female,46,1.45,103,Three,I do not have
+Female,22,1.63,45,Three,I do not have
+Male,22,1.7,50,Three,I do not have
+Female,34,1.52,78,Between 1-2,I do not have
+Female,23,1.47,56,Between 1-2,I do not have
+Male,25,1.63,96,Three,I do not have
+Female,22,1.52,55,Three,1 or 2 days
+Male,19,1.73,80,Three,I do not have
+Male,22,1.83,85,Three,I do not have
+Male,23,1.75,65,Three,I do not have
+Male,19,1.85,100,Three,1 or 2 days
+Female,22,1.65,65,More than Three,4 or 5 days
+Male,21,1.78,64,More than Three,Almost Everyday
+Male,23,1.63,92,Three,I do not have
+Male,28,1.6,90,More than Three,I do not have
+Female,22,1.63,56,Three,1 or 2 days
+Male,23,1.83,90,Three,I do not have
+Female,25,1.4,72,More than Three,I do not have
+Female,19,1.6,56,Three,1 or 2 days
+Female,50,1.52,82,Three,I do not have
+Male,20,1.73,64,Three,1 or 2 days
+Male,32,1.65,50,Three,I do not have
+Female,35,1.65,58,Between 1-2,I do not have
+Female,48,1.42,74,More than Three,I do not have
+Female,21,1.63,60,Three,I do not have
+Female,25,1.42,95,Three,I do not have
+Female,20,1.6,60,Three,1 or 2 days
+Male,23,1.7,52,Three,I do not have
+Female,20,1.68,65,Between 1-2,I do not have
+Male,24,1.65,49,Between 1-2,I do not have
+Male,30,1.73,94,Three,1 or 2 days
+Female,48,1.4,73,Three,I do not have
+Male,22,1.73,65,Between 1-2,I do not have
+Male,23,1.73,69,Between 1-2,I do not have
+Male,22,1.6,119,Three,I do not have
+Female,22,1.55,56,Three,2 or 4 days
+Male,19,1.83,72,Between 1-2,4 or 5 days
+Female,25,1.6,58,More than Three,I do not have
+Male,25,1.75,106,Three,I do not have
+Male,23,1.78,64,Three,I do not have
+Female,27,1.35,62,Three,1 or 2 days
+Male,26,1.68,88,Between 1-2,I do not have
+Female,22,1.63,54,Three,Almost Everyday
+Female,25,1.6,94,More than Three,I do not have
+Male,26,1.7,109,Three,I do not have
+Male,26,1.73,92,Between 1-2,I do not have
+Female,27,1.63,70,More than Three,I do not have
+Male,23,1.73,72,Three,Almost Everyday
+Male,21,1.68,68,More than Three,Almost Everyday
+Male,42,1.68,110,Three,I do not have
+Male,23,1.78,70,More than Three,I do not have
+Female,26,1.8,72,More than Three,I do not have
+Male,21,1.68,75,Three,I do not have
+Male,20,1.7,70,Between 1-2,I do not have
+Male,20,1.73,50,Three,I do not have
+Male,27,1.73,82,Three,I do not have
+Male,22,1.73,74,Three,I do not have
+Female,26,1.55,86,Three,I do not have
+Male,24,1.68,77,More than Three,I do not have
+Male,24,1.78,85,Between 1-2,Almost Everyday
+Male,28,1.68,50,Three,I do not have
+Male,28,1.83,112,More than Three,1 or 2 days
+Male,62,1.65,57,Three,Almost Everyday
+Male,35,1.55,87,More than Three,I do not have
+Female,25,1.63,48,Three,I do not have
+Female,21,1.57,51,Three,I do not have
+Female,16,1.57,45,Three,2 or 4 days
+Female,33,1.57,41,Three,I do not have
+Male,23,1.57,45,Between 1-2,I do not have
+Female,20,1.57,46,Three,I do not have
+Female,23,1.6,49,Three,1 or 2 days
+Male,25,1.68,102,More than Three,I do not have
+Female,24,1.47,46,Between 1-2,I do not have
+Male,24,1.73,75,Between 1-2,2 or 4 days
+Male,23,1.73,60,Three,I do not have
+Female,20,1.63,54,Three,I do not have
+Male,22,1.7,76,Three,I do not have
+Female,19,1.68,41,More than Three,I do not have
+Female,20,1.63,81,Three,2 or 4 days
+Male,22,1.75,60,Three,I do not have
+Female,21,1.55,57,Three,I do not have
+Male,25,1.85,87,More than Three,4 or 5 days
+Female,50,1.45,104,Three,I do not have
+Male,20,1.8,75,Three,I do not have
+Female,46,1.57,45,Between 1-2,I do not have
+Female,18,1.4,72,More than Three,I do not have
+Male,21,1.73,68,Between 1-2,1 or 2 days
+Male,23,1.78,72,Three,I do not have
+Male,23,1.8,63,Three,I do not have
+Male,25,1.55,41,Between 1-2,I do not have
+Female,22,1.7,82,Between 1-2,I do not have
+Male,42,1.55,85,Three,I do not have
+Male,23,1.75,65,Between 1-2,Almost Everyday
+Male,22,1.85,75,Three,I do not have
+Female,27,1.52,83,More than Three,I do not have
+Male,22,1.65,52,Three,I do not have
+Male,21,1.7,85,Three,I do not have
+Female,20,1.65,76,More than Three,2 or 4 days
+Female,22,1.63,55,Between 1-2,I do not have
+Male,43,1.63,94,More than Three,I do not have
+Male,25,1.78,70,More than Three,4 or 5 days
+Male,25,1.73,55,Three,I do not have
+Female,41,1.45,76,More than Three,I do not have
+Female,28,1.42,53,Between 1-2,I do not have
+Male,29,1.7,93,Three,1 or 2 days
+Male,23,1.57,110,Three,I do not have
+Female,22,1.47,38,Three,I do not have
+Female,25,1.57,88,More than Three,I do not have
+Female,25,1.6,90,More than Three,I do not have
+Male,21,1.68,74,Three,I do not have
+Female,30,1.63,46,Three,I do not have
+Male,20,1.6,47,Between 1-2,I do not have
+Male,25,1.7,65,Between 1-2,I do not have
+Male,24,1.68,88,Between 1-2,I do not have
+Male,24,1.57,102,Three,I do not have
+Female,22,1.57,62,More than Three,I do not have
+Male,29,1.65,93,Three,1 or 2 days
+Male,24,1.75,71,Three,1 or 2 days
+Male,30,1.65,86,Three,I do not have
+Female,19,1.45,70,Between 1-2,I do not have
+Male,29,1.7,95,Between 1-2,I do not have
+Female,30,1.4,85,Three,I do not have
+Male,22,1.75,69,Three,2 or 4 days
+Male,22,1.68,95,Between 1-2,I do not have
+Female,61,1.55,61,More than Three,I do not have
+Male,34,1.6,107,Three,I do not have
+Female,21,1.52,63,Between 1-2,I do not have
+Male,20,1.83,81,More than Three,I do not have
+Male,23,1.65,76,Between 1-2,I do not have
+Male,23,1.75,73,Three,1 or 2 days
+Male,23,1.68,55,Between 1-2,1 or 2 days
+Male,22,1.68,40,Three,I do not have
+Male,21,1.6,64,Between 1-2,I do not have
+Female,32,1.4,89,Three,I do not have
+Male,23,1.68,60,Three,I do not have
+Female,24,1.52,73,Three,I do not have
+Female,28,1.68,62,Between 1-2,I do not have
+Male,23,1.63,130,Between 1-2,I do not have
+Male,23,1.8,62,More than Three,I do not have
+Male,20,1.78,65,Between 1-2,I do not have
+Male,43,1.55,88,Three,I do not have
+Male,26,1.68,107,Three,I do not have
+Male,23,1.65,65,More than Three,I do not have
+Male,27,1.6,70,Between 1-2,I do not have
+Male,23,1.78,72,More than Three,I do not have
+Male,23,1.6,104,Three,I do not have
+Male,26,1.83,74,Three,2 or 4 days
+Male,28,1.75,127,Three,I do not have
+Female,60,1.52,80,Between 1-2,I do not have
+Male,25,1.75,109,More than Three,I do not have
+Male,29,1.68,52,Three,I do not have
+Male,33,1.57,87,More than Three,I do not have
+Male,23,1.65,110,Three,I do not have
+Male,22,1.68,52,Three,I do not have
+Female,38,1.4,82,Three,I do not have
+Male,23,1.7,74,Three,Almost Everyday
+Male,24,1.83,78,Three,I do not have
+Female,19,1.63,85,Three,I do not have
+Male,34,1.7,84,More than Three,I do not have
+Male,25,1.68,75,Three,I do not have
+Male,23,1.73,79,More than Three,2 or 4 days
+Female,21,1.65,82,Between 1-2,1 or 2 days
+Male,23,1.68,71,Three,I do not have
+Female,24,1.57,44,Three,I do not have
+Female,50,1.65,46,Between 1-2,1 or 2 days
+Male,21,1.8,78,Three,I do not have
+Female,28,1.45,87,Three,I do not have
+Male,18,1.7,108,Three,1 or 2 days
+Male,23,1.78,110,Three,I do not have
+Male,22,1.65,48,Three,I do not have
+Female,18,1.65,90,Three,I do not have
+Male,22,1.63,58,Three,1 or 2 days
+Male,24,1.78,90,Three,I do not have
+Male,22,1.63,48,Between 1-2,I do not have
+Female,21,1.68,85,Three,I do not have
+Female,21,1.63,57,Between 1-2,I do not have
+Male,20,1.65,60,Between 1-2,I do not have
+Female,24,1.57,87,More than Three,I do not have
+Female,37,1.57,44,Three,I do not have
+Male,22,1.57,75,More than Three,I do not have
+Male,34,1.5,85,More than Three,1 or 2 days
+Female,21,1.65,47,Three,I do not have
+Male,27,1.63,84,Between 1-2,1 or 2 days
+Female,19,1.57,85,Three,I do not have
+Female,26,1.57,100,Three,I do not have
+Male,21,1.63,69,Between 1-2,1 or 2 days
+Male,31,1.57,89,Three,I do not have
+Female,34,1.52,77,Three,I do not have
+Male,20,1.6,46,Between 1-2,I do not have
+Male,21,1.65,95,Three,I do not have
+Male,35,1.52,57,Between 1-2,I do not have
+Female,16,1.65,93,Three,I do not have
+Male,18,1.65,77,Between 1-2,I do not have
+Male,23,1.8,77,Three,4 or 5 days
+Male,22,1.68,92,Three,I do not have
+Male,45,1.7,96,Between 1-2,I do not have
+Male,18,1.63,72,Between 1-2,I do not have
+Female,18,1.63,60,Between 1-2,1 or 2 days
+Male,22,1.73,78,Between 1-2,1 or 2 days
+Female,28,1.52,67,Between 1-2,I do not have
+Female,22,1.55,66,Between 1-2,I do not have
+Female,21,1.68,88,Three,I do not have
+Female,21,1.57,45,Three,I do not have
+Male,30,1.63,80,Three,I do not have
+Female,22,1.6,80,Between 1-2,I do not have
+Male,20,1.57,62,Between 1-2,I do not have
+Female,23,1.52,70,Three,I do not have
+Male,75,1.8,72,Three,1 or 2 days
+Female,22,1.45,99,More than Three,I do not have
+Female,22,1.57,55,Between 1-2,I do not have
+Female,30,1.65,99,Three,I do not have
+Female,26,1.45,54,Between 1-2,1 or 2 days
+Female,20,1.55,48,Between 1-2,Almost Everyday
+Female,22,1.52,79,Between 1-2,I do not have
+Female,28,1.63,93,Three,I do not have
+Male,21,1.78,75,Between 1-2,1 or 2 days
+Female,20,1.5,52,Three,I do not have
+Female,40,1.42,100,Three,I do not have
+Female,24,1.4,53,Between 1-2,I do not have
+Male,40,1.7,53,Three,I do not have
+Male,23,1.78,87,Three,I do not have
+Female,49,1.55,107,Three,I do not have
+Male,19,1.75,76,Between 1-2,I do not have
+Female,24,1.63,65,Three,I do not have
+Female,22,1.57,46,More than Three,I do not have
+Male,30,1.7,52,Three,I do not have
+Male,28,1.55,84,Between 1-2,I do not have
+Female,16,1.65,60,Between 1-2,1 or 2 days
+Male,29,1.7,50,Three,I do not have
+Male,30,1.68,107,More than Three,I do not have
+Female,37,1.55,99,Three,I do not have
+Female,22,1.57,67,Between 1-2,I do not have
+Male,25,1.7,72,Three,2 or 4 days
+Male,24,1.68,117,Three,I do not have
+Female,23,1.68,55,Three,4 or 5 days
+Female,23,1.63,75,Between 1-2,I do not have
+Male,19,1.68,71,Between 1-2,1 or 2 days
+Male,22,1.6,67,Between 1-2,I do not have
+Male,24,1.6,44,Three,I do not have
+Male,21,1.65,51,Between 1-2,I do not have
+Male,24,1.65,114,Three,I do not have
+Female,41,1.57,105,Three,I do not have
+Female,35,1.42,77,Three,I do not have
+Male,25,1.68,113,Three,I do not have
+Male,28,1.68,48,Three,I do not have
+Female,28,1.63,49,Between 1-2,1 or 2 days
+Female,21,1.55,42,Between 1-2,2 or 4 days
+Female,23,1.42,55,Three,4 or 5 days
+Male,21,1.8,78,Three,I do not have
+Female,51,1.52,80,Between 1-2,I do not have
+Male,29,1.52,84,Three,I do not have
+Male,50,1.6,68,Between 1-2,1 or 2 days
+Female,25,1.6,54,Between 1-2,I do not have
+Female,23,1.57,89,Three,I do not have
+Female,28,1.4,72,Three,I do not have
+Female,24,1.7,59,Three,I do not have
+Female,21,1.65,56,Between 1-2,2 or 4 days
+Female,22,1.42,86,More than Three,I do not have
+Female,22,1.52,95,More than Three,I do not have
+Male,30,1.7,52,Three,I do not have
+Female,25,1.52,66,Three,I do not have
+Male,24,1.75,66,Between 1-2,I do not have
+Male,18,1.73,74,More than Three,I do not have
+Female,45,1.45,58,Three,I do not have
+Male,22,1.65,62,Between 1-2,1 or 2 days
+Male,22,1.63,60,Three,I do not have
+Male,21,1.8,78,Three,Almost Everyday
+Male,29,1.68,101,More than Three,I do not have
+Female,23,1.57,61,Three,I do not have
+Female,44,1.37,72,More than Three,I do not have
+Male,23,1.68,82,Three,I do not have
+Female,23,1.6,43,Three,I do not have
+Male,53,1.7,50,Three,I do not have
+Male,20,1.65,41,Three,I do not have
+Male,23,1.68,61,Three,I do not have
+Male,22,1.8,105,Three,I do not have
+Male,21,1.68,65,Three,I do not have
+Male,24,1.68,93,Three,I do not have
+Male,35,1.52,85,More than Three,I do not have
+Male,21,1.63,67,Between 1-2,I do not have
+Male,26,1.75,63,Between 1-2,I do not have
+Female,44,1.63,45,Three,1 or 2 days
+Female,47,1.63,68,Between 1-2,I do not have
+Female,22,1.68,51,Between 1-2,1 or 2 days
+Male,22,1.8,78,Between 1-2,I do not have
+Female,36,1.55,40,Three,I do not have
+Male,22,1.65,70,More than Three,4 or 5 days
+Male,26,1.68,61,Three,I do not have
+Male,15,1.6,49,Three,Almost Everyday
+Male,21,1.73,80,Between 1-2,I do not have
+Female,54,1.45,72,Between 1-2,I do not have
+Male,23,1.7,75,Three,4 or 5 days
+Male,23,1.65,69,Three,1 or 2 days
+Female,59,1.57,53,Three,Almost Everyday
+Male,23,1.68,72,Between 1-2,I do not have
+Female,23,1.63,42,More than Three,I do not have
+Male,31,1.57,88,Three,I do not have
+Male,22,1.83,105,More than Three,I do not have
+Male,30,1.73,54,Three,I do not have
+Female,22,1.73,78,Between 1-2,I do not have
+Female,23,1.57,56,Between 1-2,I do not have
+Male,23,1.75,82,Between 1-2,Almost Everyday
+Male,26,1.57,90,More than Three,I do not have
+Male,24,1.7,95,More than Three,4 or 5 days
+Female,28,1.75,101,More than Three,I do not have
+Female,30,1.68,79,Three,I do not have
+Male,22,1.73,118,Three,I do not have
+Male,28,1.63,99,Three,I do not have
+Female,27,1.7,68,More than Three,I do not have
+Male,20,1.52,85,More than Three,I do not have
+Male,31,1.52,89,More than Three,I do not have
+Male,21,1.57,69,Between 1-2,1 or 2 days
+Female,44,1.63,48,Three,I do not have
+Male,23,1.73,63,Between 1-2,1 or 2 days
+Female,24,1.57,77,Three,I do not have
+Male,30,1.73,35,Between 1-2,I do not have
+Female,21,1.52,89,Three,I do not have
+Male,22,1.68,60,Three,4 or 5 days
+Female,30,1.4,99,Three,I do not have
+Male,25,1.7,52,Three,I do not have
+Male,50,1.68,51,Three,I do not have
+Female,38,1.6,40,Three,I do not have
+Female,27,1.57,78,Three,I do not have
+Female,23,1.37,73,Three,I do not have
+Male,21,1.7,123,Three,I do not have
+Female,23,1.57,90,Three,I do not have
+Male,25,1.73,100,Three,1 or 2 days
+Male,25,1.63,110,Three,I do not have
+Male,22,1.7,65,Between 1-2,2 or 4 days
+Female,23,1.57,97,More than Three,I do not have
+Male,20,1.57,40,Three,I do not have
+Female,21,1.52,52,Between 1-2,I do not have
+Male,22,1.45,58,Between 1-2,I do not have
+Male,22,1.6,114,Three,I do not have
+Female,27,1.52,97,Three,I do not have
+Female,21,1.55,65,Between 1-2,1 or 2 days
+Male,32,1.55,93,Three,I do not have
+Female,21,1.57,43,Three,I do not have
+Male,23,1.65,47,Three,I do not have
+Female,22,1.5,58,Between 1-2,1 or 2 days
+Male,29,1.73,93,Between 1-2,1 or 2 days
+Female,61,1.52,61,Three,I do not have
+Male,22,1.65,105,Three,1 or 2 days
+Male,22,1.68,60,Between 1-2,I do not have
+Female,23,1.42,84,Three,I do not have
+Male,23,1.78,79,Three,2 or 4 days
+Male,22,1.68,62,More than Three,1 or 2 days
+Female,22,1.57,68,Between 1-2,2 or 4 days
+Male,23,1.8,63,Three,I do not have
+Male,49,1.57,89,Three,I do not have
+Female,27,1.57,45,Three,I do not have
+Female,23,1.6,74,Between 1-2,2 or 4 days
+Male,22,1.65,43,Three,I do not have
+Male,29,1.75,108,More than Three,I do not have
+Male,31,1.63,106,Three,I do not have
+Female,22,1.57,80,Between 1-2,I do not have
+Female,50,1.42,70,Three,I do not have
+Female,50,1.65,50,Three,I do not have
+Female,24,1.68,60,More than Three,2 or 4 days
+Female,20,1.65,63,Between 1-2,2 or 4 days
+Male,24,1.65,120,Three,I do not have
+Female,22,1.3,39,Between 1-2,I do not have
+Male,40,1.83,110,More than Three,I do not have
+Male,23,1.68,82,Three,1 or 2 days
+Male,27,1.65,49,Three,I do not have
+Male,35,1.55,88,Three,I do not have
+Male,27,1.6,102,More than Three,I do not have
+Male,22,1.7,102,Three,I do not have
+Male,25,1.73,78,Between 1-2,Almost Everyday
+Female,47,1.42,110,Three,I do not have
+Female,26,1.78,71,More than Three,2 or 4 days
+Female,24,1.45,86,Three,I do not have
+Male,23,1.73,63,Three,1 or 2 days
+Female,28,1.57,45,Three,I do not have
+Female,22,1.6,71,Between 1-2,I do not have
+Female,29,1.4,72,More than Three,I do not have
+Male,28,1.57,76,Three,I do not have
+Female,40,1.55,99,Three,I do not have
+Female,22,1.57,87,Three,I do not have
+Female,20,1.63,44,Between 1-2,I do not have
+Male,20,1.65,69,Between 1-2,1 or 2 days
+Male,22,1.8,62,Three,2 or 4 days
+Male,22,1.73,70,More than Three,Almost Everyday
+Male,21,1.6,45,Three,I do not have
+Female,47,1.45,104,Three,I do not have
+Male,27,1.65,82,Between 1-2,1 or 2 days
+Male,24,1.75,82,More than Three,2 or 4 days
+Male,27,1.73,111,Three,I do not have
+Female,18,1.7,110,Three,1 or 2 days
+Female,31,1.6,46,Three,I do not have
+Female,24,1.45,94,Three,I do not have
+Female,19,1.37,71,More than Three,I do not have
+Female,28,1.52,58,Three,I do not have
+Male,29,1.68,96,Between 1-2,I do not have
+Male,25,1.65,79,Three,2 or 4 days
+Male,20,1.68,106,Three,I do not have
+Male,51,1.65,50,Three,I do not have
+Female,48,1.65,109,Three,I do not have
+Male,24,1.7,66,Between 1-2,2 or 4 days
+Female,36,1.42,88,More than Three,I do not have
+Male,23,1.65,70,Three,1 or 2 days
+Male,30,1.73,52,Three,I do not have
+Male,40,1.6,108,Three,I do not have
+Female,22,1.63,75,Between 1-2,I do not have
+Male,30,1.68,51,Three,I do not have
+Female,17,1.55,56,Between 1-2,I do not have
+Female,26,1.45,94,Three,I do not have
+Female,30,1.55,75,Between 1-2,I do not have
+Female,45,1.47,92,Three,I do not have
+Female,22,1.55,51,Between 1-2,I do not have
+Female,41,1.42,58,More than Three,I do not have
+Male,29,1.73,105,Three,I do not have
+Female,22,1.52,79,Three,I do not have
+Female,23,1.65,67,Three,4 or 5 days
+Male,33,1.63,119,Three,I do not have
+Female,19,1.6,85,Three,I do not have
+Male,27,1.68,87,Three,I do not have
+Male,49,1.6,67,Between 1-2,1 or 2 days
+Male,25,1.7,80,Between 1-2,I do not have
+Male,16,1.73,69,Three,Almost Everyday
+Female,43,1.4,77,More than Three,I do not have
+Male,24,1.57,120,Three,I do not have
+Male,22,1.68,83,Between 1-2,I do not have
+Male,22,1.75,98,Three,I do not have
+Male,23,1.7,70,Three,Almost Everyday
+Female,23,1.6,60,Three,I do not have
+Female,25,1.63,65,More than Three,I do not have
+Male,23,1.63,47,Between 1-2,I do not have
+Female,39,1.57,45,Between 1-2,1 or 2 days
+Male,56,1.73,55,Three,I do not have
+Female,24,1.35,85,Three,I do not have
+Male,42,1.55,87,More than Three,I do not have
+Female,25,1.57,64,Three,1 or 2 days
+Male,35,1.68,47,Three,I do not have
+Female,22,1.63,49,Between 1-2,Almost Everyday
+Male,55,1.55,88,Three,I do not have
+Male,22,1.68,85,Between 1-2,I do not have
+Male,25,1.65,112,Three,I do not have
+Male,21,1.68,90,Between 1-2,1 or 2 days
+Male,20,1.68,111,Three,I do not have
+Male,23,1.65,60,Three,2 or 4 days
+Female,25,1.6,95,More than Three,I do not have
+Male,19,1.6,73,Between 1-2,1 or 2 days
+Male,23,1.73,90,More than Three,I do not have
+Female,28,1.68,48,Three,I do not have
+Male,21,1.63,85,More than Three,Almost Everyday
+Male,20,1.57,66,Between 1-2,I do not have
+Male,23,1.6,118,Three,I do not have
+Female,25,1.63,47,Three,I do not have
+Female,48,1.45,60,Between 1-2,I do not have
+Male,27,1.75,80,Three,I do not have
+Male,21,1.68,75,Three,I do not have
+Female,33,1.63,48,Between 1-2,1 or 2 days
+Female,35,1.4,91,Three,I do not have
+Male,23,1.78,85,Between 1-2,I do not have
+Female,22,1.65,60,Between 1-2,I do not have
+Female,23,1.52,50,Three,I do not have
+Male,24,1.65,69,Three,1 or 2 days
+Male,21,1.73,88,Three,I do not have
+Female,21,1.57,56,Between 1-2,I do not have
+Male,23,1.6,43,Three,1 or 2 days
+Female,41,1.63,47,Between 1-2,1 or 2 days
+Male,40,1.68,116,Three,I do not have
+Female,21,1.55,56,Between 1-2,2 or 4 days
+Male,34,1.7,65,Between 1-2,I do not have
+Male,21,1.63,68,Between 1-2,1 or 2 days
+Male,20,1.6,65,Between 1-2,I do not have
+Female,50,1.55,87,More than Three,I do not have
+Male,22,1.73,59,Between 1-2,I do not have
+Male,24,1.65,47,Three,I do not have
+Female,47,1.63,45,Three,I do not have
+Female,33,1.45,81,Three,I do not have
+Male,22,1.57,45,Between 1-2,I do not have
+Male,26,1.7,61,Three,I do not have
+Male,22,1.65,61,Three,1 or 2 days
+Female,22,1.63,75,Three,1 or 2 days
+Male,25,1.55,44,Between 1-2,I do not have
+Female,49,1.52,84,Three,I do not have
+Female,21,1.52,60,Between 1-2,I do not have
+Female,22,1.57,56,Three,I do not have
+Male,22,1.6,101,More than Three,I do not have
+Male,26,1.68,56,Three,1 or 2 days
+Male,33,1.63,98,More than Three,I do not have
+Female,44,1.57,59,Three,I do not have
+Male,22,1.75,78,Three,I do not have
+Male,25,1.68,47,Between 1-2,I do not have
+Male,55,1.65,85,Between 1-2,I do not have
+Male,30,1.68,57,Three,I do not have
+Male,25,1.68,118,Three,I do not have
+Male,23,1.73,75,Between 1-2,4 or 5 days
+Male,20,1.6,47,Three,I do not have
+Female,21,1.65,62,Three,I do not have
+Male,30,1.63,84,Between 1-2,1 or 2 days
+Female,40,1.63,68,Three,I do not have
+Male,56,1.55,85,Three,I do not have
+Male,31,1.78,78,More than Three,4 or 5 days
+Male,31,1.63,68,Between 1-2,I do not have
+Female,25,1.55,44,Three,I do not have
+Female,19,1.45,73,Three,I do not have
+Male,26,1.7,120,Three,I do not have
+Male,26,1.68,54,Three,I do not have
+Male,45,1.7,65,Three,1 or 2 days
+Male,22,1.78,74,More than Three,4 or 5 days
+Male,25,1.7,107,Three,I do not have
+Male,23,1.7,75,Three,I do not have
+Male,25,1.73,75,More than Three,4 or 5 days
+Male,23,1.7,85,Three,I do not have
+Female,20,1.65,78,Between 1-2,I do not have
+Female,22,1.6,45,Three,I do not have
+Male,27,1.68,117,Three,I do not have
+Male,25,1.83,79,Between 1-2,Almost Everyday
+Female,22,1.6,65,Three,I do not have
+Female,29,1.42,90,Three,I do not have
+Male,23,1.57,87,More than Three,I do not have
+Female,22,1.52,93,Three,I do not have
+Male,25,1.6,70,Between 1-2,2 or 4 days
+Female,46,1.6,46,Between 1-2,1 or 2 days
+Male,25,1.6,118,Three,I do not have
+Male,28,1.65,49,Between 1-2,I do not have
+Male,24,1.65,99,Three,I do not have
+Male,30,1.73,70,Three,I do not have
+Male,25,1.57,88,Three,I do not have
+Female,52,1.63,90,Three,I do not have
+Male,29,1.68,52,Three,I do not have
+Male,23,1.7,68,Three,I do not have
+Male,22,1.65,78,Between 1-2,I do not have
+Male,24,1.6,43,Three,I do not have
+Female,27,1.57,77,Between 1-2,I do not have
+Female,28,1.6,92,More than Three,I do not have
+Male,22,1.63,113,Three,I do not have
+Female,25,1.37,74,Three,I do not have
+Male,26,1.68,68,Between 1-2,I do not have
+Female,60,1.57,79,Between 1-2,I do not have
+Female,30,1.55,80,Between 1-2,I do not have
+Female,25,1.78,132,Three,I do not have
+Female,29,1.45,93,Three,I do not have
+Male,38,1.57,102,Three,I do not have
+Female,23,1.5,49,Three,I do not have
+Male,23,1.75,110,Three,I do not have
+Female,41,1.42,68,More than Three,I do not have
+Male,29,1.6,80,Between 1-2,I do not have
+Male,20,1.63,77,Three,I do not have
+Male,23,1.78,56,Between 1-2,I do not have
+Female,21,1.32,50,Three,I do not have
+Female,19,1.42,67,Between 1-2,I do not have
+Male,20,1.65,40,Three,I do not have
+Female,31,1.6,80,Three,I do not have
+Female,22,1.42,58,Between 1-2,1 or 2 days
+Male,24,1.68,64,Three,1 or 2 days
+Male,39,1.7,50,Three,I do not have
+Female,36,1.6,47,Three,I do not have
+Male,24,1.68,75,Three,I do not have
+Male,23,1.78,91,Between 1-2,I do not have
+Male,27,1.68,98,Between 1-2,I do not have
+Female,23,1.63,68,Three,I do not have
+Male,23,1.68,80,Three,2 or 4 days
+Male,23,1.6,93,Three,I do not have
+Male,22,1.78,86,More than Three,1 or 2 days
+Male,22,1.6,116,Three,I do not have
+Male,22,1.8,76,Three,Almost Everyday
+Female,18,1.65,45,Three,I do not have
+Male,26,1.65,47,Three,I do not have
+Female,27,1.63,45,Three,I do not have
+Female,38,1.6,79,Between 1-2,I do not have
+Male,29,1.57,88,Three,I do not have
+Male,23,1.68,69,Between 1-2,Almost Everyday
+Female,20,1.57,90,Three,I do not have
+Female,23,1.57,63,Three,I do not have
+Female,18,1.6,45,Three,I do not have
+Female,43,1.42,108,Three,I do not have
+Female,21,1.32,47,Three,I do not have
+Female,26,1.52,57,More than Three,I do not have
+Female,22,1.63,46,Between 1-2,1 or 2 days
+Male,22,1.8,78,Three,I do not have
+Male,27,1.7,115,More than Three,I do not have
+Male,24,1.65,66,Three,2 or 4 days
+Male,23,1.7,101,Three,I do not have
+Male,23,1.4,69,More than Three,1 or 2 days
+Female,21,1.73,60,Three,1 or 2 days
+Female,21,1.4,76,More than Three,I do not have
+Male,24,1.68,77,Between 1-2,1 or 2 days
+Male,23,1.63,58,Three,I do not have
+Male,36,1.57,90,Three,I do not have
+Female,40,1.63,48,Between 1-2,1 or 2 days
+Male,21,1.68,62,Three,Almost Everyday
+Female,21,1.45,62,Between 1-2,I do not have
+Male,23,1.73,108,More than Three,I do not have
+Female,21,1.7,45,Three,I do not have
+Female,33,1.6,42,Three,I do not have
+Female,40,1.55,43,Three,I do not have
+Male,21,1.65,64,Three,1 or 2 days
+Female,20,1.65,61,Three,Almost Everyday
+Male,20,1.73,65,More than Three,Almost Everyday
+Female,23,1.55,63,Between 1-2,I do not have
+Male,25,1.57,108,Three,I do not have
+Female,30,1.52,72,Three,I do not have
+Female,24,1.5,59,Three,1 or 2 days
+Female,26,1.6,46,Three,I do not have
+Male,58,1.65,50,Three,I do not have
+Female,22,1.6,60,Three,1 or 2 days
+Female,38,1.57,44,Three,I do not have
+Female,25,1.47,50,Three,I do not have
+Male,22,1.63,103,More than Three,I do not have
+Male,27,1.65,83,Between 1-2,1 or 2 days
+Female,25,1.57,93,Three,I do not have
+Male,22,1.63,40,Three,I do not have
+Male,47,1.88,105,Between 1-2,I do not have
+Female,25,1.52,99,Three,I do not have
+Female,28,1.45,85,Three,I do not have
+Male,22,1.55,113,Three,I do not have
+Female,22,1.57,78,Between 1-2,I do not have
+Male,28,1.75,122,Three,I do not have
+Female,22,1.57,75,Three,I do not have
+Female,22,1.57,70,Between 1-2,Almost Everyday
+Male,22,1.73,82,Between 1-2,1 or 2 days
+Female,50,1.57,78,Three,I do not have
+Female,47,1.57,68,Three,I do not have
+Male,23,1.65,49,Three,I do not have
+Male,25,1.65,84,Three,1 or 2 days
+Female,32,1.52,46,Between 1-2,1 or 2 days
+Female,22,1.47,92,Three,I do not have
+Male,24,1.75,87,Between 1-2,1 or 2 days
+Female,43,1.4,50,Between 1-2,1 or 2 days
+Female,39,1.6,80,Between 1-2,I do not have
+Male,23,1.83,85,Three,4 or 5 days
+Male,20,1.68,50,Three,I do not have
+Male,26,1.68,95,Three,I do not have
+Male,30,1.63,80,Between 1-2,I do not have
+Female,21,1.57,69,Between 1-2,1 or 2 days
+Male,27,1.78,98,More than Three,I do not have
+Female,22,1.6,47,Three,I do not have
+Male,30,1.7,98,Three,I do not have
+Male,28,1.68,86,Three,1 or 2 days
+Male,26,1.68,65,Three,I do not have
+Male,23,1.57,70,More than Three,2 or 4 days
+Female,24,1.55,65,Three,I do not have
+Female,32,1.42,94,Three,I do not have
+Female,25,1.63,77,Between 1-2,I do not have
+Male,29,1.68,89,Three,I do not have
+Male,22,1.63,40,Three,I do not have
+Female,21,1.5,68,Between 1-2,I do not have
+Male,23,1.6,70,Between 1-2,I do not have
+Male,25,1.7,90,Three,1 or 2 days
+Female,25,1.45,93,Three,I do not have
+Female,27,1.55,76,Three,I do not have
+Male,24,1.65,116,Three,I do not have
+Male,22,1.83,92,More than Three,1 or 2 days
+Female,25,1.6,76,Three,2 or 4 days
+Male,35,1.7,50,Three,I do not have
+Female,19,1.57,69,Between 1-2,2 or 4 days
+Male,21,1.78,69,More than Three,I do not have
+Female,28,1.45,93,Three,I do not have
+Male,23,1.7,69,Three,I do not have
+Female,43,1.55,70,Between 1-2,1 or 2 days
+Female,18,1.63,47,Three,1 or 2 days
+Male,26,1.7,51,Three,I do not have
+Female,32,1.57,97,More than Three,1 or 2 days
+Male,21,1.75,72,Three,Almost Everyday
+Male,24,1.6,109,Three,I do not have
+Female,25,1.63,84,Three,2 or 4 days
+Female,22,1.6,63,More than Three,I do not have
+Female,22,1.57,40,Between 1-2,1 or 2 days
+Male,25,1.65,97,Three,I do not have
+Male,21,1.55,100,Three,I do not have
+Male,22,1.68,63,Three,2 or 4 days
+Female,32,1.63,41,Three,I do not have
+Female,20,1.63,50,More than Three,I do not have
+Male,24,1.78,74,Between 1-2,I do not have
+Female,46,1.57,64,Three,Almost Everyday
+Female,28,1.45,97,Three,I do not have
+Female,22,1.55,43,More than Three,1 or 2 days
+Male,25,1.63,99,Three,I do not have
+Male,33,1.55,87,Three,I do not have
+Male,37,1.57,114,Three,I do not have
+Male,23,1.75,80,Three,2 or 4 days
+Male,30,1.63,82,Three,I do not have
+Female,43,1.52,99,Three,I do not have
+Male,22,1.65,63,Three,I do not have
+Male,23,1.73,71,Three,4 or 5 days
+Male,22,1.68,49,Between 1-2,I do not have
+Male,24,1.73,78,Three,I do not have
+Male,27,1.7,105,More than Three,I do not have
+Male,46,1.63,103,Three,I do not have
+Male,22,1.57,97,More than Three,I do not have
+Male,30,1.68,50,Three,I do not have
+Male,21,1.6,47,Three,I do not have
+Male,23,1.68,67,Between 1-2,2 or 4 days
+Male,23,1.63,116,Three,I do not have
+Female,23,1.57,50,Between 1-2,I do not have
+Male,29,1.68,102,Three,I do not have
+Female,35,1.52,40,Three,I do not have
+Male,42,1.63,68,Between 1-2,I do not have
+Female,26,1.65,58,Three,1 or 2 days
+Male,26,1.6,110,Three,I do not have
+Female,36,1.6,46,Three,I do not have
+Female,29,1.45,88,Three,I do not have
+Female,31,1.55,73,Between 1-2,I do not have
+Male,21,1.3,56,Between 1-2,I do not have
+Male,21,1.6,42,Three,I do not have
+Male,31,1.68,51,Three,I do not have
+Male,22,1.68,110,Three,I do not have
+Male,21,1.65,80,Three,I do not have
+Male,33,1.63,49,Between 1-2,I do not have
+Male,23,1.65,75,Three,2 or 4 days
+Male,22,1.68,105,Three,I do not have
+Female,24,1.68,81,More than Three,1 or 2 days
+Male,23,1.63,44,Three,I do not have
+Male,22,1.57,117,Three,I do not have
+Male,22,1.63,67,Between 1-2,I do not have
+Female,24,1.6,65,Between 1-2,I do not have
+Male,20,1.73,114,Three,I do not have
+Female,38,1.52,65,Three,I do not have
+Male,25,1.65,40,Three,I do not have
+Male,22,1.68,68,Between 1-2,1 or 2 days
+Male,15,1.83,95,Between 1-2,2 or 4 days
+Male,23,1.7,91,Three,2 or 4 days
+Male,22,1.7,53,Three,I do not have
+Female,32,1.55,43,Three,I do not have
+Male,26,1.78,90,Three,I do not have
+Female,23,1.7,56,More than Three,I do not have
+Male,22,1.63,71,Three,I do not have
+Male,24,1.63,120,Three,I do not have
+Male,23,1.73,68,More than Three,Almost Everyday
+Male,22,1.73,74,Three,I do not have
+Male,28,1.68,52,Between 1-2,I do not have
+Female,22,1.63,67,Between 1-2,I do not have
+Female,21,1.57,46,Between 1-2,I do not have
+Male,31,1.55,87,More than Three,I do not have
+Female,22,1.65,52,Between 1-2,I do not have
+Female,40,1.57,45,Three,I do not have
+Male,27,1.85,105,More than Three,1 or 2 days
+Male,22,1.7,62,Three,4 or 5 days
+Male,23,1.65,82,Three,I do not have
+Female,23,1.52,51,Between 1-2,Almost Everyday
+Male,23,1.7,70,Between 1-2,I do not have
+Male,23,1.8,74,More than Three,Almost Everyday
+Female,23,1.57,41,Three,I do not have
+Female,21,1.68,45,Three,I do not have
+Male,23,1.73,58,Three,1 or 2 days
+Male,22,1.75,75,More than Three,4 or 5 days
+Male,26,1.8,134,More than Three,1 or 2 days
+Male,23,1.65,82,Three,1 or 2 days
+Male,24,1.65,45,Three,I do not have
+Male,39,1.52,90,More than Three,I do not have
+Male,29,1.75,76,Three,I do not have
+Female,56,1.42,77,More than Three,I do not have
+Male,23,1.65,93,Between 1-2,I do not have
+Male,26,1.7,93,Three,I do not have
+Female,28,1.55,62,Between 1-2,1 or 2 days
+Male,20,1.63,75,Between 1-2,1 or 2 days
+Female,54,1.52,75,Three,I do not have
+Female,18,1.5,54,More than Three,I do not have
+Male,23,1.8,135,Three,I do not have
+Female,25,1.6,60,Three,I do not have
+Male,26,1.68,85,Between 1-2,1 or 2 days
+Male,26,1.73,53,Three,I do not have
+Female,30,1.68,79,Three,I do not have
+Female,22,1.52,54,More than Three,I do not have
+Female,23,1.65,103,More than Three,I do not have
+Male,24,1.78,91,Three,I do not have
+Male,22,1.73,54,Three,2 or 4 days
+Female,22,1.55,76,Between 1-2,I do not have
+Male,28,1.65,64,Three,I do not have
+Male,20,1.68,70,Three,Almost Everyday
+Male,24,1.65,56,Three,1 or 2 days
+Male,25,1.65,50,Between 1-2,I do not have
+Male,22,1.68,51,Three,I do not have
+Female,25,1.37,44,Three,Almost Everyday
+Male,22,1.63,56,Between 1-2,I do not have
+Male,28,1.63,104,More than Three,I do not have
+Male,24,1.68,52,Three,I do not have
+Male,22,1.68,80,Three,Almost Everyday
+Male,16,1.78,80,Three,I do not have
+Male,22,1.57,120,Three,I do not have
+Female,22,1.6,66,Between 1-2,1 or 2 days
+Female,22,1.57,43,Three,I do not have
+Female,21,1.57,60,More than Three,2 or 4 days
+Female,36,1.52,99,Three,I do not have
+Female,57,1.52,61,Between 1-2,I do not have
+Female,28,1.52,57,Three,I do not have
+Male,21,1.75,60,Between 1-2,I do not have
+Female,40,1.57,90,Three,I do not have
+Male,21,1.7,53,Three,2 or 4 days
+Male,23,1.68,52,Between 1-2,I do not have
+Male,25,1.78,68,Three,1 or 2 days
+Male,28,1.68,98,Between 1-2,I do not have
+Male,24,1.6,114,Three,I do not have
+Male,22,1.8,84,Three,1 or 2 days
+Male,21,1.68,54,More than Three,1 or 2 days
+Female,59,1.57,69,Between 1-2,I do not have
+Male,24,1.65,62,Three,2 or 4 days
+Male,19,1.78,77,Three,Almost Everyday
+Male,29,1.73,99,Between 1-2,I do not have
+Male,21,1.7,52,Between 1-2,1 or 2 days
+Female,36,1.42,81,Three,I do not have
+Male,22,1.8,79,Three,1 or 2 days
+Male,21,1.7,66,Between 1-2,1 or 2 days
+Female,20,1.63,45,Three,I do not have
+Male,21,1.68,48,Three,I do not have
+Female,27,1.57,99,Three,I do not have
+Female,36,1.63,41,Three,I do not have
+Male,24,1.8,64,Between 1-2,I do not have
+Male,20,1.68,65,Three,I do not have
+Male,27,1.6,90,More than Three,I do not have
+Female,23,1.6,65,More than Three,I do not have
+Male,67,1.73,73,Three,I do not have
+Female,26,1.55,66,Between 1-2,I do not have
+Male,16,1.7,77,Three,Almost Everyday
+Female,22,1.57,54,Three,I do not have
+Male,21,1.65,73,Three,I do not have
+Male,34,1.65,103,Three,I do not have
+Male,22,1.63,43,Three,I do not have
+Male,27,1.57,83,Three,I do not have
+Male,29,1.7,90,Between 1-2,1 or 2 days
+Female,19,1.57,54,Three,I do not have
+Female,22,1.6,59,Between 1-2,1 or 2 days
+Female,21,1.45,68,Between 1-2,I do not have
+Female,17,1.73,63,Three,1 or 2 days
+Female,21,1.55,42,Between 1-2,2 or 4 days
+Male,23,1.75,72,Three,I do not have
+Male,25,1.65,110,Three,I do not have
+Female,22,1.7,51,More than Three,1 or 2 days
+Male,22,1.57,112,Three,I do not have
+Male,25,1.6,104,Three,I do not have
+Female,26,1.45,89,Three,I do not have
+Female,49,1.57,110,Three,I do not have
+Male,27,1.6,66,Between 1-2,1 or 2 days
+Female,30,1.52,41,Three,I do not have
+Male,25,1.65,70,Between 1-2,1 or 2 days
+Female,24,1.63,42,Three,I do not have
+Male,25,1.63,98,Three,I do not have
+Female,33,1.42,75,More than Three,I do not have
+Male,37,1.55,93,More than Three,I do not have
+Male,54,1.6,68,Three,2 or 4 days
+Female,21,1.63,50,Three,I do not have
+Male,22,1.7,70,More than Three,I do not have
+Male,20,1.55,100,Three,I do not have
+Male,24,1.65,50,Three,I do not have
+Male,25,1.73,51,Three,I do not have
+Female,58,1.57,75,Three,I do not have
+Male,30,1.68,51,Three,I do not have
+Male,20,1.73,92,Between 1-2,I do not have
+Female,40,1.6,43,Three,I do not have
+Female,29,1.45,58,Between 1-2,1 or 2 days
+Male,21,1.73,80,Three,I do not have
+Male,22,1.65,46,Three,I do not have
+Male,23,1.65,63,Three,Almost Everyday
+Male,32,1.68,50,Three,I do not have
+Female,24,1.55,61,Between 1-2,1 or 2 days
+Male,16,1.65,71.6,Three,1 or 2 days
+Male,21,1.65,62,Between 1-2,I do not have
+Female,26,1.55,86,More than Three,I do not have
+Male,27,1.57,89,More than Three,I do not have
+Male,23,1.7,106,More than Three,I do not have
+Female,41,1.35,51,Between 1-2,1 or 2 days
+Male,58,1.7,62,Three,Almost Everyday
+Male,22,1.63,90,Between 1-2,I do not have
+Female,36,1.42,98,Three,I do not have
+Male,22,1.65,67,Three,I do not have
+Female,42,1.63,48,Three,I do not have
+Male,26,1.73,54,Three,I do not have
+Male,21,1.68,90,Between 1-2,I do not have
+Female,21,1.68,70,Between 1-2,I do not have
+Female,21,1.42,87,Between 1-2,I do not have
+Female,22,1.57,50,Three,I do not have
+Male,23,1.63,67,Three,2 or 4 days
+Male,22,1.73,69,Three,I do not have
+Female,23,1.63,49,Three,1 or 2 days
+Female,20,1.6,48,Three,2 or 4 days
+Male,24,1.68,58,More than Three,I do not have
+Female,21,1.55,66,More than Three,I do not have
+Male,34,1.73,54,Three,I do not have
+Female,27,1.57,99,Three,I do not have
+Female,56,1.6,77,Three,I do not have
+Male,28,1.85,85,More than Three,1 or 2 days
+Female,20,1.57,78,More than Three,2 or 4 days
+Female,40,1.63,107,Three,I do not have
+Male,45,1.55,89,Three,I do not have
+Male,37,1.65,113,Three,I do not have
+Female,30,1.68,70,More than Three,1 or 2 days
+Male,25,1.45,80,More than Three,I do not have
+Female,22,1.57,45,Three,1 or 2 days
+Male,25,1.6,47,Between 1-2,I do not have
+Female,32,1.42,74,Three,I do not have
+Male,22,1.55,115,Three,I do not have
+Male,22,1.68,58,Between 1-2,I do not have
+Male,20,1.73,55,Three,1 or 2 days
+Female,24,1.6,76,Between 1-2,1 or 2 days
+Male,28,1.63,104,More than Three,I do not have
+Female,28,1.52,96,Three,I do not have
+Female,22,1.52,58,Between 1-2,I do not have
+Male,21,1.6,46,Between 1-2,I do not have
+Male,22,1.73,76,Three,1 or 2 days
+Female,28,1.6,52,Three,I do not have
+Female,20,1.65,46,Three,I do not have
+Female,22,1.68,55,More than Three,2 or 4 days
+Male,22,1.6,120,Three,I do not have
+Male,19,1.75,64,Three,Almost Everyday
+Female,35,1.55,74,Three,I do not have
+Female,29,1.55,85,More than Three,I do not have
+Female,21,1.75,61,Between 1-2,I do not have
+Female,22,1.42,71,Three,I do not have
+Female,22,1.52,75,Three,I do not have
+Male,23,1.68,51,Three,I do not have
+Female,20,1.6,98,Between 1-2,I do not have
+Female,21,1.63,62,Three,1 or 2 days
+Female,31,1.7,75,Three,I do not have
+Female,23,1.55,70,Between 1-2,I do not have
+Female,22,1.6,76,Three,1 or 2 days
+Female,25,1.75,105,Three,I do not have
+Female,33,1.52,73,Between 1-2,I do not have
+Male,35,1.7,105,Three,I do not have
+Male,18,1.65,72,Between 1-2,1 or 2 days
+Female,23,1.55,77,Three,I do not have
+Male,20,1.63,43,Between 1-2,I do not have
+Female,20,1.55,41,Three,I do not have
+Male,29,1.83,112,Three,2 or 4 days
+Male,23,1.68,93,Three,I do not have
+Female,22,1.57,48,Three,I do not have
+Male,26,1.7,103,Three,I do not have
+Male,21,1.78,58,Between 1-2,2 or 4 days
+Female,44,1.42,77,More than Three,I do not have
+Male,21,1.83,95,Between 1-2,I do not have
+Female,24,1.57,90,More than Three,I do not have
+Female,47,1.6,100,Three,I do not have
+Male,22,1.7,65,Three,1 or 2 days
+Male,27,1.8,79,Three,1 or 2 days
+Male,57,1.68,52,Three,I do not have
+Female,22,1.42,98,Three,I do not have
+Male,25,1.63,89,Three,1 or 2 days
+Female,20,1.65,76,Three,2 or 4 days
+Female,36,1.6,46,Three,I do not have
+Female,35,1.57,99,Three,I do not have
+Male,25,1.63,102,Three,I do not have
+Female,23,1.37,50,Between 1-2,I do not have
+Male,30,1.7,50,Three,I do not have
+Male,22,1.73,80,Three,I do not have
+Female,39,1.57,100,Three,I do not have
+Male,32,1.68,112,Three,I do not have
+Female,24,1.35,56,Three,I do not have
+Male,32,1.63,48,Three,I do not have
+Female,24,1.52,73,Three,I do not have
+Female,50,1.45,93,Three,I do not have
+Male,22,1.68,70,More than Three,I do not have
+Male,23,1.63,65,Between 1-2,1 or 2 days
+Male,26,1.68,52,Three,I do not have
+Female,53,1.37,53,Between 1-2,I do not have
+Male,22,1.6,56,Between 1-2,1 or 2 days
+Male,22,1.57,66,Between 1-2,I do not have
+Female,35,1.55,78,Between 1-2,I do not have
+Male,20,1.57,92,More than Three,I do not have
+Male,30,1.73,52,Three,I do not have
+Female,23,1.63,66,Three,I do not have
+Male,30,1.63,70,Three,I do not have
+Female,21,1.65,80,Between 1-2,1 or 2 days
+Male,21,1.52,97,Three,I do not have
+Female,22,1.6,51,Three,I do not have
+Female,22,1.52,67,Three,2 or 4 days
+Male,23,1.68,95,Three,1 or 2 days
+Female,23,1.52,64,Between 1-2,I do not have
+Female,20,1.63,47,Three,I do not have
+Male,24,1.57,118,Three,I do not have
+Male,24,1.7,70,More than Three,I do not have
+Male,22,1.7,75,Three,I do not have
+Male,18,1.65,41,Between 1-2,I do not have
+Male,20,1.75,69,More than Three,4 or 5 days
+Male,22,1.65,47,Three,I do not have
+Male,24,1.63,44,Between 1-2,I do not have
+Male,23,1.65,65,Three,1 or 2 days
+Male,23,1.75,80,Three,I do not have
+Male,23,1.68,100,Between 1-2,I do not have
+Female,20,1.65,70,More than Three,I do not have
+Female,19,1.57,54,Three,I do not have
+Female,42,1.4,72,Three,I do not have
+Female,21,1.6,73,Between 1-2,I do not have
+Male,56,1.63,50,Three,I do not have
+Male,35,1.75,109,More than Three,I do not have
+Male,23,1.73,70,More than Three,I do not have
+Male,24,1.65,83,Between 1-2,I do not have
+Male,22,1.68,80,Three,I do not have
+Female,58,1.45,73,Three,I do not have
+Male,24,1.78,95,Three,1 or 2 days
+Male,26,1.68,105,Three,I do not have
+Male,26,1.75,109,Three,I do not have
+Female,22,1.57,80,Three,I do not have
+Male,30,1.73,98,Three,I do not have
+Male,35,1.57,87,Three,I do not have
+Male,24,1.65,109,Three,I do not have
+Male,22,1.63,119,Three,I do not have
+Female,22,1.37,50,Between 1-2,I do not have
+Female,25,1.63,46,Between 1-2,I do not have
+Female,26,1.63,49,Between 1-2,I do not have
+Female,23,1.52,48,Three,I do not have
+Male,40,1.8,82,Three,I do not have
+Female,33,1.6,77,Three,I do not have
+Female,20,1.57,45,Three,I do not have
+Male,23,1.68,96,Between 1-2,1 or 2 days
+Female,27,1.55,94,Three,I do not have
+Female,21,1.63,83,Between 1-2,I do not have
+Female,31,1.52,86,More than Three,I do not have
+Male,26,1.68,64,Three,Almost Everyday
+Female,25,1.6,46,Three,I do not have
+Female,25,1.52,76,Three,I do not have
+Male,25,1.73,91,Between 1-2,I do not have
+Female,58,1.42,59,Between 1-2,1 or 2 days
+Female,49,1.4,57,Between 1-2,I do not have
+Female,21,1.68,60,Between 1-2,1 or 2 days
+Male,46,1.7,90,Three,2 or 4 days
+Male,22,1.7,61,Three,4 or 5 days
+Male,29,1.65,85,Between 1-2,I do not have
+Female,41,1.52,63,Between 1-2,1 or 2 days
+Male,22,1.7,76,Between 1-2,Almost Everyday
+Male,22,1.52,98,Three,I do not have
+Male,55,1.65,42,Between 1-2,I do not have
+Male,23,1.65,65,Between 1-2,I do not have
+Female,21,1.52,55,Three,I do not have
+Female,22,1.6,47,More than Three,I do not have
+Female,24,1.6,53,Three,Almost Everyday
+Male,22,1.85,84,More than Three,I do not have
+Female,23,1.6,77,Three,I do not have
+Male,29,1.65,84,Three,1 or 2 days
+Male,22,1.63,58,Between 1-2,2 or 4 days
+Female,28,1.52,55,Three,I do not have
+Male,23,1.78,83,Three,I do not have
+Female,21,1.55,53,Between 1-2,2 or 4 days
+Female,24,1.55,78,Three,I do not have
+Male,21,1.68,79,Three,I do not have
+Male,24,1.68,84,Three,I do not have
+Male,23,1.6,112,Three,I do not have
+Male,22,1.68,90,Between 1-2,I do not have
+Male,23,1.68,60,Three,I do not have
+Female,28,1.73,55,Three,I do not have
+Male,25,1.65,50,Between 1-2,I do not have
+Male,17,1.75,80,Between 1-2,4 or 5 days
+Male,24,1.83,74,Between 1-2,Almost Everyday
+Male,29,1.68,94,Between 1-2,1 or 2 days
+Female,22,1.6,55,Three,I do not have
+Female,43,1.57,110,Three,I do not have
+Female,50,1.65,110,Three,I do not have
+Female,28,1.52,52,Three,Almost Everyday
+Female,21,1.57,45,Between 1-2,I do not have
+Female,23,1.57,50,Three,I do not have
+Male,28,1.52,81,Three,I do not have
+Female,48,1.42,80,Three,I do not have
+Male,23,1.63,102,Three,I do not have
+Male,25,1.63,109,Three,I do not have
+Male,32,1.68,50,Three,I do not have
+Female,56,1.52,72,Between 1-2,I do not have
+Female,22,1.6,58,Three,I do not have
+Female,23,1.63,68,Three,I do not have
+Male,48,1.6,90,Three,I do not have
+Male,21,1.52,95,Three,I do not have
+Female,29,1.45,95,Three,I do not have
+Male,23,1.57,74,Three,I do not have
+Male,23,1.73,76,Three,1 or 2 days
+Male,48,1.73,82,Three,I do not have
+Male,28,1.55,85,More than Three,I do not have
+Male,25,1.57,88,More than Three,I do not have
+Male,22,1.8,138,Three,I do not have
+Male,62,1.65,96,Three,I do not have
+Female,20,1.35,52,Between 1-2,I do not have
+Male,39,1.65,101,More than Three,I do not have
+Male,30,1.73,82,Three,Almost Everyday
+Male,28,1.55,88,Three,I do not have
+Female,22,1.42,95,Three,I do not have
+Male,23,1.73,77,Three,I do not have
+Male,23,1.7,98,Between 1-2,2 or 4 days
+Female,21,1.55,49,More than Three,Almost Everyday
+Male,28,1.75,72,Between 1-2,Almost Everyday
+Male,22,1.7,58,Three,I do not have
+Female,21,1.73,55,Three,I do not have
+Male,21,1.68,60,Three,I do not have
+Male,23,1.68,94,Three,I do not have
+Male,24,1.7,90,Between 1-2,1 or 2 days
+Male,28,1.65,78,Three,2 or 4 days
+Female,23,1.6,65,Three,2 or 4 days
+Male,22,1.8,134,More than Three,I do not have
+Female,22,1.52,54,Three,I do not have
+Female,19,1.68,46,Three,I do not have
+Female,29,1.4,57,Three,1 or 2 days
+Male,25,1.6,77,Three,I do not have
+Male,22,1.63,75,Between 1-2,I do not have
+Male,24,1.68,68,Three,2 or 4 days
+Male,23,1.7,67,Between 1-2,1 or 2 days
+Male,39,1.57,88,More than Three,I do not have
+Female,25,1.68,47,Three,I do not have
+Female,43,1.42,79,More than Three,I do not have
+Female,23,1.78,60,Three,I do not have
+Female,20,1.37,56,More than Three,I do not have
+Female,29,1.73,66,Three,I do not have
+Male,20,1.63,45,Three,I do not have
+Female,23,1.7,74,Three,2 or 4 days
+Male,23,1.6,90,More than Three,I do not have
+Female,23,1.6,90,Three,I do not have
+Male,23,1.7,80,Three,I do not have
+Female,16,1.55,55,Three,I do not have
+Male,23,1.68,75,Three,1 or 2 days
+Male,23,1.65,59,Between 1-2,I do not have
+Female,23,1.52,68,Three,I do not have
+Female,30,1.5,68,More than Three,1 or 2 days
+Female,22,1.5,55,Three,I do not have
+Female,37,1.47,59,More than Three,1 or 2 days
+Male,24,1.73,102,Three,1 or 2 days
+Male,28,1.75,122,More than Three,I do not have
+Male,22,1.57,108,Three,I do not have
+Female,25,1.55,65,Between 1-2,1 or 2 days
+Male,31,1.68,50,Three,I do not have
+Male,22,1.73,100,Between 1-2,1 or 2 days
+Female,23,1.6,60,Three,I do not have
+Male,22,1.78,73,Three,1 or 2 days
+Male,39,1.65,106,More than Three,I do not have
+Male,20,1.65,71,Between 1-2,I do not have
+Male,39,1.55,87,Three,I do not have
+Male,39,1.68,99,Three,I do not have
+Male,19,1.8,58,Three,4 or 5 days
+Male,28,1.78,80,Three,1 or 2 days
+Male,25,1.68,70,Three,I do not have
+Male,28,1.7,96,Between 1-2,1 or 2 days
+Female,56,1.52,71,Between 1-2,I do not have
+Female,21,1.55,48,Between 1-2,I do not have
+Male,22,1.83,79,Three,I do not have
+Female,22,1.52,56,Three,I do not have
+Male,23,1.63,68,More than Three,1 or 2 days
+Male,25,1.63,68,Between 1-2,1 or 2 days
+Male,24,1.65,48,Between 1-2,I do not have
+Male,22,1.63,79,Between 1-2,I do not have
+Male,33,1.7,102,More than Three,I do not have
+Female,22,1.68,101,More than Three,I do not have
+Female,22,1.57,45,Three,1 or 2 days
+Female,50,1.4,73,More than Three,I do not have
+Female,20,1.68,48,Three,I do not have
+Male,49,1.57,88,Three,I do not have
+Female,60,1.55,79,Between 1-2,I do not have
+Male,52,1.78,92,Three,I do not have
+Female,21,1.57,74,Between 1-2,2 or 4 days
+Male,24,1.65,49,Three,I do not have
+Female,32,1.4,80,Three,I do not have
+Male,23,1.75,82,Three,I do not have
+Female,32,1.57,76,Three,I do not have
+Female,23,1.57,57,More than Three,I do not have
+Female,25,1.6,65,Three,I do not have
+Female,37,1.6,46,Three,I do not have
+Male,29,1.68,91,Between 1-2,1 or 2 days
+Female,21,1.63,45,Three,I do not have
+Male,28,1.73,125,Three,I do not have
+Male,52,1.68,50,Three,I do not have
+Female,29,1.52,100,Three,I do not have
+Female,21,1.6,55,Between 1-2,I do not have
+Female,23,1.63,48,Three,I do not have
+Female,26,1.55,89,Three,I do not have
+Female,22,1.7,48,Between 1-2,I do not have
+Female,37,1.55,100,Three,I do not have
+Male,21,1.7,76,Between 1-2,1 or 2 days
+Male,22,1.6,50,Three,Almost Everyday
+Male,25,1.6,85,Three,I do not have
+Female,27,1.52,94,Three,I do not have
+Female,48,1.45,99,Three,I do not have
+Male,24,1.8,65,Three,2 or 4 days
+Male,23,1.65,73,Three,I do not have
+Male,23,1.63,107,Three,I do not have
+Female,31,1.42,81,Three,I do not have
+Male,25,1.65,50,Between 1-2,I do not have
+Male,26,1.68,135,Between 1-2,I do not have
+Male,23,1.73,56,Three,I do not have
+Male,21,1.7,64,Three,1 or 2 days
+Female,22,1.63,51,Three,I do not have
+Female,24,1.37,55,Between 1-2,I do not have
+Male,24,1.8,85,More than Three,I do not have
+Female,23,1.57,48,Three,I do not have
+Female,21,1.63,60,Between 1-2,I do not have
+Male,23,1.78,60,Between 1-2,I do not have
+Female,20,1.55,56,Three,1 or 2 days
+Female,22,1.6,60,More than Three,I do not have
+Female,30,1.7,65,Three,I do not have
+Male,24,1.75,82,More than Three,2 or 4 days
+Male,22,1.73,75,Three,I do not have
+Female,25,1.68,92,Between 1-2,I do not have
+Female,22,1.55,49,Three,Almost Everyday
+Female,23,1.55,67,More than Three,I do not have
+Female,36,1.4,86,Three,I do not have
+Female,30,1.52,95,Three,I do not have
+Male,22,1.65,98,Three,I do not have
+Female,23,1.55,42,Three,I do not have
+Female,23,1.6,90,Three,I do not have
+Male,24,1.68,116,Three,I do not have
+Male,24,1.63,110,Three,I do not have
+Male,22,1.63,55,Between 1-2,I do not have
+Male,22,1.75,65,Between 1-2,1 or 2 days
+Male,25,1.73,54,Three,I do not have
+Female,39,1.37,80,Three,I do not have
+Male,25,1.68,50,Three,I do not have
+Male,21,1.68,76,Three,I do not have
+Female,22,1.63,50,Three,1 or 2 days
+Male,21,1.75,80,Three,4 or 5 days
+Male,21,1.78,72,Three,I do not have
+Female,24,1.52,65,Between 1-2,I do not have
+Male,22,1.68,66,Three,2 or 4 days
+Male,24,1.65,70,More than Three,Almost Everyday
+Female,22,1.7,70,Three,2 or 4 days
+Male,27,1.75,116,Three,I do not have
+Female,23,1.52,43,Three,I do not have
+Male,22,1.75,60,Between 1-2,2 or 4 days
+Female,21,1.42,55,Between 1-2,1 or 2 days
+Female,22,1.52,50,More than Three,I do not have
+Male,20,1.68,70,Between 1-2,I do not have
+Male,23,1.7,56,Three,I do not have
+Female,28,1.57,95,More than Three,I do not have
+Female,29,1.68,108,Three,I do not have
+Female,30,1.4,85,Three,I do not have
+Female,28,1.57,76,Three,I do not have
+Male,28,1.75,82,Between 1-2,1 or 2 days
+Male,25,1.68,95,Between 1-2,I do not have
+Male,30,1.75,107,Three,1 or 2 days
+Male,22,1.78,89,Three,1 or 2 days
+Male,21,1.73,51,Three,I do not have
+Male,29,1.55,108,Three,I do not have
+Male,25,1.55,103,Three,I do not have
+Male,40,1.57,90,Three,I do not have
+Male,21,1.73,110,Three,I do not have
+Female,24,1.52,54,More than Three,2 or 4 days
+Male,24,1.7,81,Three,Almost Everyday
+Male,35,1.63,111,Three,I do not have
+Female,22,1.55,95,Between 1-2,1 or 2 days
+Male,23,1.65,109,Three,I do not have
+Male,30,1.65,98,Three,I do not have
+Female,46,1.47,72,More than Three,I do not have
+Male,26,1.73,93,Three,2 or 4 days
+Female,49,1.57,68,Between 1-2,I do not have
+Male,21,1.75,75,Three,Almost Everyday
+Female,20,1.55,54,More than Three,I do not have
+Male,18,1.65,112,More than Three,I do not have
+Male,34,1.65,50,Three,I do not have
+Male,25,1.83,68,Three,I do not have
+Female,24,1.57,72,More than Three,I do not have
+Female,21,1.57,58,Between 1-2,Almost Everyday
+Male,28,1.73,90,Three,1 or 2 days
+Male,26,1.75,108,Three,I do not have
+Male,23,1.68,92,Three,1 or 2 days
+Male,20,1.63,68,Between 1-2,1 or 2 days
+Male,52,1.68,50,Three,I do not have
+Male,27,1.65,72,Three,I do not have
+Male,21,1.7,85,Three,1 or 2 days
+Female,25,1.57,75,Between 1-2,I do not have
+Female,16,1.52,48,Three,I do not have
+Female,22,1.7,58,Three,I do not have
+Male,27,1.8,109,More than Three,1 or 2 days
+Female,45,1.42,57,Between 1-2,1 or 2 days
+Male,23,1.78,110,More than Three,4 or 5 days
+Male,24,1.78,126,More than Three,I do not have
+Female,20,1.63,49,Three,I do not have
+Female,29,1.52,76,Between 1-2,I do not have
+Male,46,1.68,52,Three,I do not have
+Female,35,1.55,77,Between 1-2,I do not have
+Female,20,1.63,63,Between 1-2,1 or 2 days
+Female,27,1.52,74,Three,I do not have
+Male,22,1.6,108,Three,I do not have
+Male,34,1.6,96,More than Three,I do not have
+Female,23,1.4,72,Three,I do not have
+Male,27,1.7,51,Three,I do not have
+Female,28,1.45,87,Three,I do not have
+Male,23,1.68,74,Three,2 or 4 days
+Female,22,1.6,63,Between 1-2,I do not have
+Male,25,1.73,73,Between 1-2,I do not have
+Male,25,1.57,89,Three,I do not have
+Female,21,1.47,40,Between 1-2,1 or 2 days
+Male,23,1.75,66,More than Three,1 or 2 days
+Female,21,1.55,56,Three,I do not have
+Male,21,1.65,56,Three,I do not have
+Male,22,1.68,56,Between 1-2,I do not have
+Male,43,1.78,90,More than Three,1 or 2 days
+Male,23,1.7,75,Three,1 or 2 days
+Female,21,1.35,45,Between 1-2,I do not have
+Male,23,1.7,74,Three,I do not have
+Female,28,1.57,45,Three,I do not have
+Male,22,1.63,110,Three,I do not have
+Male,23,1.68,67,Three,1 or 2 days
+Female,20,1.57,42,Three,I do not have
+Male,18,1.65,47,Three,2 or 4 days
+Male,28,1.7,53,Three,I do not have
+Male,27,1.63,45,Three,I do not have
+Female,58,1.6,78,Between 1-2,I do not have
+Male,24,1.65,119,Three,I do not have
+Male,23,1.78,73,Three,I do not have
+Male,29,1.73,51,Three,I do not have
+Female,23,1.63,50,Three,I do not have
+Female,27,1.65,100,More than Three,I do not have
+Female,23,1.63,91,More than Three,I do not have
+Female,18,1.45,72,Three,I do not have
+Male,23,1.63,49,Three,I do not have
+Female,18,1.63,45,Three,I do not have
+Female,41,1.45,101,Three,I do not have
+Male,24,1.7,58,Three,1 or 2 days
+Female,22,1.73,80,Three,1 or 2 days
+Male,21,1.65,104,Three,1 or 2 days
+Female,18,1.55,83,More than Three,I do not have
+Female,30,1.6,45,Three,I do not have
+Female,24,1.55,63,Between 1-2,I do not have
+Male,26,1.68,89,Between 1-2,I do not have
+Male,17,1.68,55,Three,Almost Everyday
+Female,22,1.52,75,Three,I do not have
+Male,25,1.68,117,Three,I do not have
+Male,29,1.65,97,Three,I do not have
+Male,23,1.65,65,Three,2 or 4 days
+Male,23,1.57,45,Three,I do not have
+Female,49,1.57,45,Three,I do not have
+Female,27,1.68,45,Three,I do not have
+Female,16,1.6,60,More than Three,I do not have
+Male,22,1.65,63,Between 1-2,I do not have
+Female,55,1.42,110,Three,I do not have
+Male,30,1.65,107,More than Three,I do not have
+Female,47,1.6,105,Three,I do not have
+Male,17,1.68,70,Three,1 or 2 days
+Male,29,1.65,98,Three,I do not have
+Male,37,1.65,102,More than Three,I do not have
+Female,22,1.35,71,Three,I do not have
+Female,25,1.55,87,Three,I do not have
+Female,22,1.3,57,Three,2 or 4 days
+Female,39,1.52,63,Between 1-2,1 or 2 days
+Male,25,1.8,65,Three,2 or 4 days
+Female,22,1.6,60,More than Three,I do not have
+Male,35,1.73,55,Three,I do not have
+Male,22,1.8,81,Between 1-2,Almost Everyday
+Male,20,1.73,68,Three,I do not have
+Male,39,1.52,92,Three,I do not have
+Male,25,1.68,65,Between 1-2,I do not have
+Male,15,1.65,78,Three,I do not have
+Male,18,1.63,43,Three,I do not have
+Female,22,1.6,70,Between 1-2,Almost Everyday
+Male,34,1.63,99,More than Three,I do not have
+Male,23,1.8,63,Between 1-2,2 or 4 days
+Male,23,1.7,65,Three,1 or 2 days
+Male,23,1.65,75,Between 1-2,I do not have
+Female,50,1.63,49,Three,I do not have
+Male,22,1.73,75,Three,2 or 4 days
+Male,24,1.65,88,Three,I do not have
+Male,22,1.8,98,Three,1 or 2 days
+Female,22,1.68,150,Between 1-2,I do not have
+Male,23,1.75,56,Between 1-2,I do not have
+Female,23,1.57,45,Three,I do not have
+Male,22,1.7,76,Three,I do not have
+Male,25,1.78,132,Three,I do not have
+Male,48,1.73,55,Three,I do not have
+Male,43,1.55,87,Three,I do not have
+Female,22,1.42,54,Between 1-2,I do not have
+Male,23,1.65,49,Three,I do not have
+Male,33,1.73,105,More than Three,I do not have
+Female,36,1.42,92,Three,I do not have
+Female,23,1.65,57,Three,I do not have
+Female,29,1.42,92,Three,I do not have
+Male,21,1.68,69,More than Three,Almost Everyday
+Male,22,1.65,53,Between 1-2,I do not have
+Male,47,1.57,67,Between 1-2,I do not have
+Female,22,1.6,42,Three,I do not have
+Female,23,1.63,58,Between 1-2,I do not have
+Female,35,1.42,73,Three,I do not have
+Male,22,1.68,80,Three,Almost Everyday
+Male,40,1.73,54,Three,I do not have
+Male,22,1.65,55,Three,1 or 2 days
+Female,39,1.63,49,Three,I do not have
+Male,33,1.63,99,Three,I do not have
+Male,36,1.68,85,Between 1-2,4 or 5 days
+Male,23,1.75,98,More than Three,1 or 2 days
+Male,27,1.68,50,Between 1-2,I do not have
+Female,21,1.57,58,Between 1-2,I do not have
+Male,22,1.65,78,Between 1-2,I do not have
+Male,23,1.73,80,Between 1-2,1 or 2 days
+Male,21,1.83,70,Three,I do not have
+Male,22,1.88,98,Three,I do not have
+Male,32,1.63,99,More than Three,I do not have
+Female,18,1.63,50,Three,I do not have
+Female,27,1.37,72,Three,I do not have
+Male,23,1.75,60,Three,Almost Everyday
+Male,19,1.8,86,Between 1-2,I do not have
+Male,50,1.55,88,More than Three,I do not have
+Female,20,1.32,76,More than Three,I do not have
+Male,22,1.8,97,Between 1-2,I do not have
+Female,21,1.52,62,More than Three,I do not have
+Male,23,1.68,46,Three,I do not have
+Male,22,1.65,113,Three,I do not have
+Female,26,1.45,85,Three,I do not have
+Male,25,1.6,42,Three,I do not have
+Male,24,1.63,70,Between 1-2,1 or 2 days
+Female,23,1.65,111,Between 1-2,I do not have
+Female,22,1.6,38,Three,I do not have
+Female,21,1.75,70,More than Three,1 or 2 days
+Male,20,1.73,53,Three,I do not have
+Male,22,1.75,69,Three,I do not have
+Male,21,1.78,120,Three,I do not have
+Male,23,1.63,89,Between 1-2,1 or 2 days
+Male,24,1.65,119,Three,I do not have
+Male,23,1.65,57,More than Three,I do not have
+Female,23,1.6,63,Between 1-2,1 or 2 days
+Female,19,1.52,72,Three,I do not have
+Female,22,1.6,62,Between 1-2,2 or 4 days
+Male,22,1.63,47,Three,I do not have
+Male,22,1.63,86,Between 1-2,1 or 2 days
+Male,29,1.7,104,More than Three,I do not have
+Female,45,1.57,88,Between 1-2,I do not have
+Male,23,1.73,67,Between 1-2,I do not have
+Male,28,1.52,88,Three,I do not have
+Male,21,1.57,66,Between 1-2,I do not have
+Female,52,1.52,69,More than Three,I do not have
+Female,23,1.57,78,Three,I do not have
+Male,26,1.75,105,More than Three,2 or 4 days
+Male,31,1.6,117,Three,I do not have
+Female,21,1.63,46,Three,I do not have
+Male,21,1.68,62,More than Three,I do not have
+Male,23,1.68,91,Between 1-2,1 or 2 days
+Male,22,1.7,85,Three,I do not have
+Female,20,1.63,85,Three,I do not have
+Female,28,1.55,75,Three,I do not have
+Female,27,1.52,95,Three,I do not have
+Male,18,1.63,79,Between 1-2,I do not have
+Male,22,1.75,80,Between 1-2,I do not have
+Female,23,1.57,55,Between 1-2,Almost Everyday
+Male,28,1.68,60,Three,I do not have
+Male,20,1.65,77,Between 1-2,1 or 2 days
+Male,28,1.7,50,Three,I do not have
+Male,25,1.57,45,Three,I do not have
+Male,21,1.65,60,Three,2 or 4 days
+Female,28,1.4,71,Three,I do not have
+Male,19,1.68,105,More than Three,I do not have
+Male,23,1.8,70,More than Three,1 or 2 days
+Female,31,1.5,50,Three,4 or 5 days
+Female,48,1.4,71,Three,I do not have
+Female,24,1.52,65,Three,1 or 2 days
+Female,21,1.45,80,More than Three,I do not have
+Female,33,1.55,100,Three,I do not have
+Female,37,1.55,98,Three,I do not have
+Female,16,1.6,80,Three,I do not have
+Male,23,1.7,100,Three,1 or 2 days
+Male,22,1.8,65,Three,1 or 2 days
+Male,30,1.73,63,Three,I do not have
+Female,49,1.57,83,More than Three,I do not have
+Female,56,1.55,62,Between 1-2,I do not have
+Female,23,1.55,98,Three,I do not have
+Female,32,1.4,56,More than Three,2 or 4 days
+Male,25,1.73,51,Three,I do not have
+Female,22,1.45,66,Three,I do not have
+Female,30,1.63,45,Three,I do not have
+Male,20,1.57,88,Three,I do not have
+Male,27,1.73,94,Three,I do not have
+Female,28,1.42,79,More than Three,I do not have
+Female,21,1.57,56,Three,I do not have
+Female,22,1.57,50,Between 1-2,1 or 2 days
+Female,18,1.6,78,More than Three,I do not have
+Male,23,1.75,78,Between 1-2,Almost Everyday
+Male,21,1.6,42,Between 1-2,I do not have
+Female,21,1.52,64,Between 1-2,I do not have
+Female,23,1.55,79,Between 1-2,I do not have
+Male,28,1.57,87,More than Three,I do not have
+Male,25,1.6,105,Three,I do not have
+Female,28,1.42,88,Three,I do not have
+Male,26,1.42,65,More than Three,2 or 4 days
+Male,23,1.73,101,Three,I do not have
+Male,22,1.65,55,Three,I do not have
+Male,22,1.7,56,Between 1-2,1 or 2 days
+Female,23,1.55,89,Three,I do not have
+Female,23,1.55,40,Between 1-2,I do not have
+Male,23,1.65,115,Three,I do not have
+Female,31,1.52,73,Between 1-2,I do not have
+Male,23,1.8,93,Three,4 or 5 days
+Male,59,1.68,80,Between 1-2,Almost Everyday
+Male,70,1.68,77,Between 1-2,I do not have
+Male,22,1.85,87,Between 1-2,I do not have
+Male,17,1.7,68,Three,I do not have
+Male,21,1.75,70,Three,I do not have
+Male,26,1.63,103,More than Three,I do not have
+Male,34,1.52,83,Three,I do not have
+Female,20,1.52,48,More than Three,I do not have
+Male,24,1.63,42,Three,I do not have
+Female,27,1.65,87,Three,I do not have
+Male,22,1.65,50,More than Three,I do not have
+Female,49,1.45,100,Three,I do not have
+Male,21,1.63,55,Between 1-2,I do not have
+Male,26,1.7,69,Three,1 or 2 days
+Male,26,1.68,92,Between 1-2,1 or 2 days
+Male,25,1.55,114,Three,I do not have
+Male,28,1.6,50,Three,I do not have
+Male,29,1.73,52,Three,I do not have
+Male,20,1.65,41,Three,I do not have
+Male,21,1.8,83,Three,I do not have
+Female,24,1.6,47,Three,I do not have
+Male,25,1.68,102,More than Three,I do not have
+Male,22,1.68,70,Three,I do not have
+Male,20,1.68,45,Three,I do not have
+Male,20,1.7,52,Three,I do not have
+Female,22,1.65,52,Three,I do not have
+Female,27,1.57,77,Three,I do not have
+Male,36,1.57,89,More than Three,I do not have
+Female,25,1.63,42,Three,I do not have
+Female,22,1.55,64,Between 1-2,I do not have
+Male,16,1.73,85,Three,1 or 2 days
+Male,24,1.68,59,Three,I do not have
+Female,36,1.52,82,Three,I do not have
+Female,34,1.55,46,More than Three,I do not have
+Female,22,1.6,80,Three,I do not have
+Female,20,1.68,85,Three,1 or 2 days
+Female,30,1.45,74,Three,I do not have
+Female,22,1.6,51,Between 1-2,I do not have
+Male,38,1.6,91,Three,I do not have
+Male,28,1.57,90,Three,I do not have
+Male,23,1.68,88,Between 1-2,1 or 2 days
+Female,22,1.63,56,Between 1-2,I do not have
+Female,26,1.42,60,Between 1-2,I do not have
+Male,29,1.52,79,Three,I do not have
+Male,33,1.68,49,Three,I do not have
+Male,25,1.68,126,Three,I do not have
+Female,21,1.63,40,Three,I do not have
+Male,23,1.6,81,Three,I do not have
+Female,27,1.68,56,Three,I do not have
+Male,28,1.83,140,Three,I do not have
+Female,21,1.6,56,Three,I do not have
+Female,24,1.6,63,Three,Almost Everyday
+Female,25,1.65,70,Three,2 or 4 days
+Male,43,1.6,68,Between 1-2,I do not have
+Male,35,1.65,49,Between 1-2,I do not have
+Male,30,1.7,94,Three,I do not have
+Male,22,1.68,65,Three,I do not have
+Female,41,1.4,70,Three,I do not have
+Female,20,1.65,65,Three,2 or 4 days
+Female,22,1.45,88,Three,I do not have
+Female,21,1.57,52,Three,2 or 4 days
+Male,24,1.73,95,Between 1-2,1 or 2 days
+Male,26,1.7,91,Between 1-2,I do not have
+Female,25,1.65,58,Between 1-2,I do not have
+Male,23,1.8,65,Between 1-2,Almost Everyday
+Female,27,1.6,94,Three,I do not have
+Female,24,1.52,98,Three,I do not have
+Female,27,1.57,74,Between 1-2,I do not have
+Male,38,1.73,108,Three,I do not have
+Male,31,1.65,47,Three,I do not have
+Male,21,1.7,111,Three,I do not have
+Male,23,1.83,86,Three,1 or 2 days
+Male,23,1.75,66,Three,1 or 2 days
+Male,23,1.63,45,Three,I do not have
+Male,22,1.85,84,Three,I do not have
+Male,22,1.68,50,Between 1-2,I do not have
+Male,23,1.8,79,Between 1-2,I do not have
+Male,29,1.68,64,Between 1-2,1 or 2 days
+Male,21,1.65,73,Between 1-2,Almost Everyday
+Male,24,1.57,114,Three,I do not have
+Female,39,1.63,47,Three,I do not have
+Female,25,1.68,64,More than Three,I do not have
+Female,18,1.65,47,Three,1 or 2 days
+Male,22,1.78,92,Three,I do not have
+Male,16,1.73,81,Three,Almost Everyday
+Female,27,1.52,63,Between 1-2,I do not have
+Female,53,1.52,76,Three,I do not have
+Male,23,1.7,63,Three,I do not have
+Female,38,1.52,96,Three,I do not have
+Male,23,1.65,87,Three,I do not have
+Female,51,1.57,78,Between 1-2,I do not have
+Male,30,1.73,99,Between 1-2,1 or 2 days
+Female,21,1.6,58,Three,I do not have
+Female,26,1.57,59,Between 1-2,4 or 5 days
+Female,45,1.42,110,Three,I do not have
+Female,27,1.57,75,Between 1-2,I do not have
+Female,28,1.63,55,Between 1-2,I do not have
+Male,21,1.68,45,Three,I do not have
+Male,23,1.68,84,More than Three,I do not have
+Male,22,1.57,88,More than Three,I do not have
+Male,26,1.78,76,Three,2 or 4 days
+Male,24,1.8,80,Between 1-2,I do not have
+Female,23,1.52,65,Between 1-2,I do not have
+Male,20,1.8,76,Between 1-2,I do not have
+Male,22,1.68,52,Three,I do not have
+Male,22,1.78,73,Three,1 or 2 days
+Female,24,1.63,54,Three,I do not have
+Male,50,1.73,110,Three,I do not have
+Male,19,1.73,73,More than Three,4 or 5 days
+Male,37,1.55,88,Three,I do not have
+Female,25,1.45,93,Three,I do not have
+Male,23,1.68,47,Three,I do not have
+Female,27,1.52,71,Three,I do not have
+Male,22,1.6,98,More than Three,I do not have
+Female,40,1.45,75,More than Three,I do not have
+Male,23,1.73,75,Three,I do not have
+Male,21,1.8,69,Three,I do not have
+Female,33,1.52,99,Three,I do not have
+Male,28,1.65,50,Between 1-2,I do not have
+Female,29,1.57,68,Three,4 or 5 days
+Male,25,1.65,80,Three,Almost Everyday
+Female,22,1.45,65,Three,I do not have
+Male,25,1.6,41,Three,I do not have
+Female,49,1.65,47,Three,1 or 2 days
+Female,31,1.55,77,Between 1-2,I do not have
+Male,25,1.63,75,Between 1-2,2 or 4 days
+Male,27,1.7,48,More than Three,Almost Everyday
+Male,22,1.75,120,Between 1-2,1 or 2 days
+Female,22,1.63,56,Three,1 or 2 days
+Male,30,1.75,128,Three,I do not have
+Female,25,1.52,93,More than Three,I do not have
+Female,22,1.63,85,Three,1 or 2 days
+Female,26,1.65,70,Between 1-2,4 or 5 days
+Male,23,1.65,85,Three,I do not have
+Male,23,1.75,78,Three,1 or 2 days
+Female,15,1.63,52,Three,2 or 4 days
+Female,43,1.35,77,Between 1-2,1 or 2 days
+Female,35,1.65,70,More than Three,2 or 4 days
+Male,25,1.63,110,Three,I do not have
+Female,21,1.65,69,Between 1-2,I do not have
+Male,25,1.57,102,Three,I do not have
+Female,21,1.55,80,Three,I do not have
+Male,25,1.65,65,More than Three,4 or 5 days
+Male,25,1.65,117,Three,I do not have
+Male,30,1.57,89,More than Three,I do not have
+Male,28,1.57,94,More than Three,I do not have
+Male,24,1.55,112,Three,I do not have
+Female,26,1.68,65,Three,2 or 4 days
+Male,24,1.65,91,Between 1-2,I do not have
+Male,33,1.65,50,Three,I do not have
+Male,20,1.55,43,Between 1-2,I do not have
+Female,26,1.42,95,Three,I do not have
+Female,21,1.52,43,Three,2 or 4 days
+Female,20,1.47,36,Between 1-2,1 or 2 days
+Male,24,1.65,119,Three,I do not have
+Female,32,1.63,46,Three,I do not have
+Male,65,1.65,67,Three,Almost Everyday
+Male,24,1.65,47,Three,I do not have
+Male,53,1.6,85,Three,I do not have
+Male,23,1.78,90,More than Three,2 or 4 days
+Female,22,1.55,85,More than Three,I do not have
+Female,32,1.45,63,Between 1-2,I do not have
+Female,38,1.55,75,Three,I do not have
+Male,25,1.65,112,Three,I do not have
+Female,20,1.45,71,Three,I do not have
+Male,27,1.68,63,Three,2 or 4 days
+Female,23,1.68,46,Three,I do not have
+Male,24,1.63,45,Between 1-2,I do not have
+Male,25,1.7,80,Three,2 or 4 days
+Male,22,1.8,80,Three,1 or 2 days
+Male,24,1.78,92,Three,I do not have
+Female,24,1.6,60,Three,2 or 4 days
+Male,22,1.73,51,Three,I do not have
+Female,21,1.55,57,Three,4 or 5 days
+Female,40,1.73,67,Three,1 or 2 days
+Male,22,1.63,82,Between 1-2,I do not have
+Male,22,1.57,114,Three,I do not have
+Male,22,1.75,78,Three,I do not have
+Male,50,1.63,60,Three,I do not have
+Female,21,1.63,45,Three,I do not have
+Female,22,1.68,49,Three,I do not have
+Female,21,1.63,65,Between 1-2,I do not have
+Female,26,1.6,46,Three,1 or 2 days
+Female,25,1.45,90,Three,I do not have
+Male,25,1.68,40,Three,I do not have
+Male,28,1.78,126,Three,1 or 2 days
+Male,30,1.68,47,Between 1-2,I do not have
+Male,24,1.65,98,Three,I do not have
+Male,23,1.65,45,Three,I do not have
+Male,24,1.57,100,Three,I do not have
+Male,22,1.73,86,Three,I do not have
+Male,46,1.7,53,Three,I do not have
+Male,25,1.57,103,Three,I do not have
+Female,32,1.52,40,Three,I do not have
+Male,23,1.65,65,Between 1-2,I do not have
+Female,37,1.57,79,Three,I do not have
+Male,25,1.73,63,Three,I do not have
+Male,27,1.7,98,Three,I do not have
+Female,22,1.57,48,Three,I do not have
+Male,22,1.45,69,Between 1-2,1 or 2 days
+Female,22,1.68,73,Three,I do not have
+Male,23,1.6,85,Three,1 or 2 days
+Female,29,1.52,77,Three,I do not have
+Male,28,1.65,50,Between 1-2,I do not have
+Male,23,1.78,87,Three,I do not have
+Male,23,1.8,89,More than Three,Almost Everyday
+Male,21,1.68,55,Between 1-2,I do not have
+Male,22,1.7,99,Between 1-2,I do not have
+Male,24,1.7,99,Three,I do not have
+Male,23,1.65,50,Between 1-2,I do not have
+Female,38,1.37,91,Three,I do not have
+Male,22,1.68,45,Three,I do not have
+Male,22,1.73,70,Three,I do not have
+Female,22,1.52,47,Three,Almost Everyday
+Male,28,1.68,72,Three,I do not have
+Male,20,1.78,84,More than Three,I do not have
+Male,30,1.68,85,Three,1 or 2 days
+Female,27,1.63,70,Three,I do not have
+Male,29,1.63,45,Between 1-2,I do not have
+Male,24,1.65,75,Between 1-2,I do not have
+Male,24,1.63,43,Three,I do not have
+Female,27,1.45,95,Three,I do not have
+Male,23,1.73,62,Three,I do not have
+Male,23,1.6,76,Between 1-2,I do not have
+Male,25,1.63,97,More than Three,I do not have
+Male,29,1.68,91,Between 1-2,I do not have
+Female,23,1.55,42,Between 1-2,I do not have
+Male,27,1.7,78,Three,I do not have
+Male,23,1.63,79,Between 1-2,1 or 2 days
+Female,33,1.55,69,Between 1-2,I do not have
+Male,22,1.8,65,Between 1-2,I do not have
+Male,43,1.75,90,Three,Almost Everyday
+Female,22,1.7,73,Three,I do not have
+Male,23,1.73,55,Three,1 or 2 days
+Female,45,1.55,65,Between 1-2,I do not have
+Male,24,1.63,45,Three,I do not have
+Male,24,1.63,109,Three,I do not have
+Female,20,1.57,52,Three,1 or 2 days
+Male,21,1.75,71,Three,I do not have
+Male,22,1.75,115,More than Three,I do not have
+Female,35,1.3,68,Three,I do not have
+Female,25,1.52,93,Three,I do not have
+Male,24,1.63,115,Three,I do not have
+Male,19,1.52,94,Three,I do not have
+Male,22,1.68,70,Between 1-2,I do not have
+Male,23,1.6,40,Three,I do not have
+Male,23,1.68,119,Three,I do not have
+Male,25,1.65,90,Between 1-2,1 or 2 days
+Female,22,1.42,83,Three,I do not have
+Female,28,1.45,95,Three,I do not have
+Female,34,1.63,68,Three,4 or 5 days
+Female,36,1.42,96,Three,I do not have
+Female,21,1.55,48,Three,Almost Everyday
+Female,22,1.65,65,Between 1-2,4 or 5 days
+Female,20,1.65,70,Between 1-2,I do not have
+Male,17,1.7,56,More than Three,Almost Everyday
+Female,42,1.55,64,Between 1-2,I do not have
+Male,20,1.78,67,More than Three,1 or 2 days
+Male,23,1.7,92,Three,1 or 2 days
+Male,23,1.78,72,Between 1-2,Almost Everyday
+Male,28,1.73,75,Three,2 or 4 days
+Female,21,1.57,57,Three,1 or 2 days
+Male,20,1.78,85,More than Three,I do not have
+Male,32,1.6,118,Three,I do not have
+Male,25,1.63,102,Three,I do not have
+Female,43,1.65,87,Between 1-2,I do not have
+Male,24,1.75,85,Three,2 or 4 days
+Male,20,1.68,51,Three,I do not have
+Female,18,1.65,85,Three,I do not have
+Male,23,1.83,99,Between 1-2,I do not have
+Male,23,1.78,63,Three,2 or 4 days
+Male,37,1.57,102,Three,I do not have
+Male,20,1.7,45,Three,I do not have
+Male,23,1.7,68,Between 1-2,4 or 5 days
+Female,22,1.52,58,Between 1-2,I do not have
+Female,29,1.42,80,More than Three,I do not have
+Female,22,1.57,45,Three,I do not have
+Female,20,1.57,55,Between 1-2,I do not have
+Male,25,1.65,90,Between 1-2,1 or 2 days
+Male,19,1.6,69,Between 1-2,1 or 2 days
+Female,22,1.52,58,Between 1-2,I do not have
+Female,24,1.57,90,More than Three,I do not have
+Female,25,1.68,64,More than Three,I do not have
+Male,24,1.8,94,Three,I do not have
+Male,58,1.55,88,More than Three,I do not have
+Male,23,1.73,93,Three,I do not have
+Male,21,1.68,45,Three,I do not have
+Male,24,1.65,45,Three,I do not have
+Male,20,1.73,98,Three,I do not have
+Male,22,1.73,80,Between 1-2,2 or 4 days
+Male,22,1.8,86,Between 1-2,Almost Everyday
+Male,25,1.68,49,Three,I do not have
+Male,20,1.65,80,Between 1-2,1 or 2 days
+Male,23,1.75,126,Three,I do not have
+Male,18,1.55,99,Three,I do not have
+Female,15,1.55,56,More than Three,I do not have
+Male,20,1.6,97,More than Three,I do not have
+Male,25,1.75,70,Three,1 or 2 days
+Male,23,1.68,50,Three,I do not have
+Male,25,1.7,103,Three,I do not have
+Male,23,1.63,112,Three,I do not have
+Male,30,1.75,96,Three,1 or 2 days
+Male,33,1.78,95,Three,1 or 2 days
+Female,47,1.4,54,Between 1-2,I do not have
+Male,30,1.73,50,Three,I do not have
+Male,30,1.75,115,Three,I do not have
+Male,28,1.7,50,Three,I do not have
+Female,22,1.57,40,Three,I do not have
+Female,24,1.63,42,Three,I do not have
+Female,24,1.55,60,Between 1-2,I do not have
+Female,29,1.57,99,Three,I do not have
+Male,22,1.83,69,More than Three,Almost Everyday
+Female,19,1.68,45,Three,I do not have
+Male,23,1.68,66,Between 1-2,Almost Everyday
+Male,21,1.83,69,Between 1-2,4 or 5 days
+Male,23,1.65,86,Three,1 or 2 days
+Male,44,1.8,86,Between 1-2,2 or 4 days
+Male,27,1.57,67,Between 1-2,I do not have
+Female,34,1.6,45,Three,I do not have
+Male,23,1.75,73,Between 1-2,I do not have
+Female,60,1.57,79,Three,I do not have
+Female,25,1.6,67,Three,Almost Everyday
+Male,22,1.88,78,Three,1 or 2 days
+Female,21,1.55,57,Three,2 or 4 days
+Male,45,1.7,68,Three,1 or 2 days
+Female,20,1.55,92,Three,1 or 2 days
+Male,37,1.52,91,Three,I do not have
+Female,19,1.52,49,Three,4 or 5 days
+Female,26,1.68,49,Three,I do not have
+Female,22,1.52,76,Between 1-2,I do not have
+Male,23,1.65,75,Three,2 or 4 days
+Female,25,1.52,75,Between 1-2,I do not have
+Female,24,1.52,95,Three,I do not have
+Male,22,1.7,57,Three,Almost Everyday
+Male,23,1.65,53,Three,I do not have
+Female,27,1.6,96,More than Three,I do not have
+Female,42,1.55,99,Three,I do not have
+Female,42,1.37,72,More than Three,I do not have
+Male,18,1.63,54,Between 1-2,I do not have
+Female,20,1.68,70,Three,I do not have
+Male,24,1.75,70,More than Three,4 or 5 days
+Female,39,1.6,41,Three,I do not have
+Male,15,1.68,62,More than Three,1 or 2 days
+Female,39,1.63,80,Between 1-2,I do not have
+Female,31,1.75,83,Three,I do not have
+Female,20,1.63,47,Three,I do not have
+Male,25,1.6,69,Between 1-2,I do not have
+Female,26,1.68,45,Three,I do not have
+Male,34,1.55,88,More than Three,I do not have
+Female,22,1.55,45,Three,I do not have
+Female,40,1.52,82,Three,I do not have
+Male,27,1.68,98,Between 1-2,I do not have
+Female,34,1.22,43,More than Three,I do not have
+Male,55,1.65,77,Three,I do not have
+Female,20,1.63,55,Three,4 or 5 days
+Male,24,1.73,55,Three,I do not have
+Male,44,1.65,103,More than Three,I do not have
+Female,20,1.52,65,Three,I do not have
+Female,26,1.4,55,Between 1-2,I do not have
+Male,25,1.73,95,Three,I do not have
+Male,56,1.73,53,Three,I do not have
+Male,21,1.7,66,Between 1-2,I do not have
+Male,22,1.83,78,Three,1 or 2 days
+Male,22,1.78,50,Three,I do not have
+Female,21,1.6,64,Between 1-2,2 or 4 days
+Female,21,1.65,90,Three,I do not have
+Female,22,1.6,70,Three,I do not have
+Male,46,1.73,107,More than Three,I do not have
+Male,23,1.75,69,More than Three,I do not have
+Male,23,1.55,103,Three,I do not have
+Male,25,1.65,47,Three,I do not have
+Female,27,1.57,45,Three,I do not have
+Male,33,1.68,51,Three,I do not have
+Female,32,1.6,47,Three,I do not have
+Female,22,1.45,94,Three,I do not have
+Male,23,1.85,96,Between 1-2,1 or 2 days
+Female,26,1.63,45,Three,I do not have
+Male,21,1.57,70,Three,1 or 2 days
+Female,18,1.55,79,Three,I do not have
+Male,24,1.68,94,Between 1-2,I do not have
+Female,30,1.57,100,Three,I do not have
+Male,25,1.65,45,Three,I do not have
+Female,47,1.42,75,More than Three,I do not have
+Female,29,1.52,90,More than Three,I do not have
+Female,28,1.55,89,More than Three,I do not have
+Male,23,1.63,62,Between 1-2,1 or 2 days
+Female,19,1.57,76,Three,I do not have
+Male,22,1.73,52,Three,I do not have
+Male,39,1.68,50,Three,I do not have
+Male,38,1.68,108,More than Three,I do not have
+Male,20,1.68,78,Three,1 or 2 days
+Female,26,1.52,70,Between 1-2,1 or 2 days
+Male,22,1.73,74,Three,2 or 4 days
+Male,21,1.65,53,Between 1-2,I do not have
+Male,28,1.6,69,Between 1-2,I do not have
+Male,22,1.68,57,Three,2 or 4 days
+Female,20,1.65,76,Between 1-2,2 or 4 days
+Female,18,1.52,94,Three,I do not have
+Male,23,1.73,59,Three,I do not have
+Female,42,1.63,69,Three,I do not have
+Female,25,1.45,59,Between 1-2,1 or 2 days
+Male,20,1.75,96,Between 1-2,2 or 4 days
+Female,25,1.73,57,Between 1-2,I do not have
+Female,21,1.55,55,Between 1-2,4 or 5 days
+Male,24,1.68,70,Three,I do not have
+Female,22,1.35,53,Between 1-2,1 or 2 days
+Male,25,1.63,47,Three,I do not have
+Female,22,1.57,56,Between 1-2,I do not have
+Female,24,1.63,75,Between 1-2,1 or 2 days
+Male,30,1.73,90,Three,I do not have
+Male,43,1.68,74,Three,2 or 4 days
+Female,25,1.55,75,Between 1-2,I do not have
+Male,21,1.65,55,Between 1-2,I do not have
+Female,23,1.6,70,More than Three,I do not have
+Male,21,1.75,71,Between 1-2,I do not have
+Male,23,1.65,49,Between 1-2,I do not have
+Female,30,1.47,60,Three,I do not have
+Male,24,1.65,74,Three,I do not have
+Male,30,1.57,115,Three,I do not have
+Male,20,1.65,44,Three,I do not have
+Female,27,1.6,97,Three,I do not have
+Male,22,1.85,84,Between 1-2,I do not have
+Male,22,1.57,64,Between 1-2,1 or 2 days
+Female,22,1.65,55,More than Three,I do not have
+Female,22,1.45,86,Three,1 or 2 days
+Male,25,1.55,80,Between 1-2,I do not have
+Female,28,1.52,60,More than Three,I do not have
+Female,21,1.57,49,Between 1-2,Almost Everyday
+Female,37,1.63,47,Three,I do not have
+Male,22,1.73,101,Three,1 or 2 days
+Female,18,1.52,49,Three,I do not have
+Female,47,1.4,72,Three,I do not have
+Male,24,1.65,110,Three,I do not have
+Female,24,1.57,45,Three,I do not have
+Female,25,1.57,75,Between 1-2,I do not have
+Female,25,1.52,89,Three,I do not have
+Male,26,1.65,50,Three,I do not have
+Female,26,1.55,87,More than Three,I do not have
+Female,22,1.6,43,Between 1-2,I do not have
+Male,25,1.55,40,Between 1-2,I do not have
+Female,22,1.7,74,Three,4 or 5 days
+Male,21,1.68,49,Three,I do not have
+Male,27,1.65,114,Three,I do not have
+Male,22,1.73,85,More than Three,2 or 4 days
+Male,24,1.47,69,Three,2 or 4 days
+Male,24,1.65,120,Three,I do not have
+Female,25,1.47,54,Between 1-2,I do not have
+Male,22,1.7,65,Between 1-2,1 or 2 days
+Female,22,1.6,96,Three,I do not have
+Male,27,1.7,70,More than Three,2 or 4 days
+Female,22,1.52,73,Between 1-2,I do not have
+Male,18,1.63,41,Three,I do not have
+Male,22,1.6,118,Three,I do not have
+Male,24,1.75,79,Between 1-2,Almost Everyday
+Male,28,1.68,88,Between 1-2,I do not have
+Male,15,1.6,49,Between 1-2,Almost Everyday

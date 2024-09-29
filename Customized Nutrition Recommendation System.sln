@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34902.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Website", "Website", "{0A1A32DC-B96E-4D4D-B4B7-AECE378FC199}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{8A0360AD-6253-4488-99EA-12746C111308}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{BBA17A3E-E8EB-46FA-BFDA-B11F46A52271}"
+	ProjectSection(SolutionItems) = preProject
+		app.py = app.py
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{73C71488-CD82-494E-A886-2CC048C04435}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8A0360AD-6253-4488-99EA-12746C111308} = {0A1A32DC-B96E-4D4D-B4B7-AECE378FC199}
+		{BBA17A3E-E8EB-46FA-BFDA-B11F46A52271} = {0A1A32DC-B96E-4D4D-B4B7-AECE378FC199}
+		{73C71488-CD82-494E-A886-2CC048C04435} = {0A1A32DC-B96E-4D4D-B4B7-AECE378FC199}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C766F6B9-5843-4DFE-A02E-B9023DE9EDD9}
+	EndGlobalSection
+EndGlobal
